@@ -1,0 +1,20 @@
+2024-03-03 20:36:21	8314	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:39	CreateModule 0x12ab3e0
+2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:39	CreateModule 0x5d33e0
+2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:44	CreateModule 0x5d33e0
+2024-03-04 13:06:08	7909	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:39	CreateModule 0xab93e0
+2024-03-04 13:06:08	7909	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:44	CreateModule 0xab93e0
+2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:67	CreateModule 0xc2f3e0
+2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:72	CreateModule 0xc2f3e0
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:67	CreateModule 0xb8c3e0
+2024-03-04 13:38:14	11397	main	3	[INFO]	[root]	chat/my_module.cc:18	onLoad
+2024-03-04 13:38:14	11397	main	3	[INFO]	[root]	chat/my_module.cc:36	onServerReady
+2024-03-04 13:38:14	11397	main	3	[INFO]	[root]	chat/my_module.cc:57	onServerUp
+2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:68	CreateModule 0x11503e0
+2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:73	CreateModule 0x11503e0
+2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:68	CreateModule 0xa593e0
+2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:73	CreateModule 0xa593e0
+2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:68	CreateModule 0xcd13e0
+2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:73	CreateModule 0xcd13e0
+2024-03-04 14:58:31	19966	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:68	CreateModule 0x5663e0
+2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:88	CreateModule 0x22fc250
+2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:93	CreateModule 0x22fc250

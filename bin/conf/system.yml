@@ -1,0 +1,3 @@
+server:
+    work_path: /home/lyslg/Documents/chat_room/workerserver
+    pid_file: chat_room.pid

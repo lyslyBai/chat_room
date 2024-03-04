@@ -1,0 +1,13 @@
+logs:
+    - name: root
+      level: info
+      appenders:
+          - type: FileLogAppender
+            file: /home/lyslg/Documents/chat_room/logs/root.log
+          - type: StdoutLogAppender
+    - name: system
+      level: info
+      appenders:
+          - type: FileLogAppender
+            file: /home/lyslg/Documents/chat_room/logs/system.log
+          - type: StdoutLogAppender

@@ -1,0 +1,772 @@
+2024-03-03 19:46:09	20571	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-03 19:46:09	20571	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-03 19:46:09	20571	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-03 19:46:09	20571	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-03 20:18:01	4190	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-03 20:18:01	4190	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-03 20:18:01	4190	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-03 20:18:01	4190	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-03 20:18:04	4210	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-03 20:18:04	4210	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-03 20:18:04	4210	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-03 20:18:04	4210	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-03 20:18:04	4210	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-03 20:18:04	4210	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:100	main
+2024-03-03 20:20:11	4408	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-03 20:20:11	4408	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-03 20:20:11	4408	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-03 20:20:11	4408	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-03 20:22:22	5130	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-03 20:22:22	5130	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-03 20:22:22	5130	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-03 20:22:22	5130	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-03 20:36:21	8314	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-03 20:36:21	8314	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-03 20:36:21	8314	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-03 20:36:21	8314	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-03 20:36:21	8314	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-03 20:36:21	8314	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-03 20:36:21	8314	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-03 20:36:21	8314	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-03 20:36:21	8314	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-03 20:36:21	8314	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-03 20:36:21	8314	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-03 20:36:21	8314	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:113	main
+2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:35	destory module=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so handle=0x5f2b30 success
+2024-03-04 13:06:07	7909	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 13:06:07	7909	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 13:06:07	7909	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 13:06:07	7909	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 13:06:07	7909	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 13:06:08	7909	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 13:06:08	7909	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 13:06:08	7909	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 13:06:08	7909	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 13:06:08	7909	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 13:06:08	7909	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:35	destory module=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so handle=0xacd940 success
+2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:35	destory module=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so handle=0xc4eb30 success
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:113	main
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 13:38:14	11397	main	0	[INFO]	[system]	lyslg/scheduler.cc:97	0xb92ba0 0 stopped
+2024-03-04 13:38:14	11397	main	3	[ERROR]	[system]	lyslg/socket.cc:217	sock=11 connect(/home/lyslg/Documents/chat_room/tmp/test.sock) error errno=111 errstr=Connection refused
+2024-03-04 13:38:14	11397	main	3	[INFO]	[system]	lyslg/socket.cc:175	file delete
+2024-03-04 13:38:14	11397	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-03-04 13:38:14	11397	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-03-04 13:38:14	11397	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=10 is_connected=0 family=1 type=1 protocol=0 local_address=/home/lyslg/Documents/chat_room/tmp/test.sock]
+2024-03-04 13:38:14	11397	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=11 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8062]
+2024-03-04 13:38:14	11397	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=12 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8061]
+2024-03-04 14:20:29	15156	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:20:29	15156	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:20:29	15156	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:20:29	15156	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:20:29	15156	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 14:20:29	15156	UNKNOW	0	[ERROR]	[system]	lyslg/library.cc:50	cannot load library path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so error=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so: undefined symbol: _ZN5lyslg4http15ResourceServletC1ERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+2024-03-04 14:20:31	15176	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:20:31	15176	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:20:31	15176	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:20:31	15176	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:20:31	15176	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 14:20:31	15176	UNKNOW	0	[ERROR]	[system]	lyslg/library.cc:50	cannot load library path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so error=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so: undefined symbol: _ZN5lyslg4http15ResourceServletC1ERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+2024-03-04 14:20:31	15176	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-04 14:20:31	15176	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:113	main
+2024-03-04 14:20:31	15176	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:20:31	15176	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:20:31	15176	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:20:31	15176	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:20:31	15176	main	0	[INFO]	[system]	lyslg/scheduler.cc:97	0xf31ba0 0 stopped
+2024-03-04 14:20:31	15176	main	3	[ERROR]	[system]	lyslg/socket.cc:217	sock=11 connect(/home/lyslg/Documents/chat_room/tmp/test.sock) error errno=111 errstr=Connection refused
+2024-03-04 14:20:31	15176	main	3	[INFO]	[system]	lyslg/socket.cc:175	file delete
+2024-03-04 14:20:31	15176	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-03-04 14:20:31	15176	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-03-04 14:20:31	15176	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=10 is_connected=0 family=1 type=1 protocol=0 local_address=/home/lyslg/Documents/chat_room/tmp/test.sock]
+2024-03-04 14:20:31	15176	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=11 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8062]
+2024-03-04 14:20:31	15176	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=12 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8061]
+2024-03-04 14:21:03	15176	main	9	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:21:03	15176	main	8	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:21:13	15176	main	11	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:21:13	15176	main	10	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:26:02	15176	main	12	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=110 errstr=Connection timed out client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:26:02	15176	main	13	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=110 errstr=Connection timed out client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:26:08	15176	main	14	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:26:08	15176	main	15	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:26:18	15176	main	16	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:26:18	15176	main	17	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:35	destory module=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so handle=0x116fb30 success
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:113	main
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:31:28	16803	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:31:28	16803	main	0	[INFO]	[system]	lyslg/scheduler.cc:97	0x1b47ba0 0 stopped
+2024-03-04 14:31:28	16803	main	3	[ERROR]	[system]	lyslg/socket.cc:217	sock=11 connect(/home/lyslg/Documents/chat_room/tmp/test.sock) error errno=111 errstr=Connection refused
+2024-03-04 14:31:28	16803	main	3	[INFO]	[system]	lyslg/socket.cc:175	file delete
+2024-03-04 14:31:28	16803	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-03-04 14:31:28	16803	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-03-04 14:31:28	16803	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=10 is_connected=0 family=1 type=1 protocol=0 local_address=/home/lyslg/Documents/chat_room/tmp/test.sock]
+2024-03-04 14:31:28	16803	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=11 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8062]
+2024-03-04 14:31:28	16803	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=12 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8061]
+2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:35	destory module=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so handle=0xa78b30 success
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:113	main
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:46:02	18279	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:46:02	18279	main	0	[INFO]	[system]	lyslg/scheduler.cc:97	0x1568ba0 0 stopped
+2024-03-04 14:46:02	18279	main	3	[ERROR]	[system]	lyslg/socket.cc:217	sock=11 connect(/home/lyslg/Documents/chat_room/tmp/test.sock) error errno=111 errstr=Connection refused
+2024-03-04 14:46:02	18279	main	3	[INFO]	[system]	lyslg/socket.cc:175	file delete
+2024-03-04 14:46:02	18279	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-03-04 14:46:02	18279	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-03-04 14:46:02	18279	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=10 is_connected=0 family=1 type=1 protocol=0 local_address=/home/lyslg/Documents/chat_room/tmp/test.sock]
+2024-03-04 14:46:02	18279	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=11 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8062]
+2024-03-04 14:46:02	18279	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=12 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8061]
+2024-03-04 14:46:12	18279	main	8	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin//html/asd
+2024-03-04 14:46:46	18279	main	9	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=110 errstr=Connection timed out client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:46:46	18279	main	8	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=110 errstr=Connection timed out client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:47:03	18279	main	10	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin//html/asd
+2024-03-04 14:47:05	18279	main	10	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin//html/asd
+2024-03-04 14:47:05	18279	main	10	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin//html/asd
+2024-03-04 14:47:52	18279	main	11	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=110 errstr=Connection timed out client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:47:52	18279	main	10	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=110 errstr=Connection timed out client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:47:53	18279	main	12	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin//html/asd
+2024-03-04 14:48:48	18279	main	13	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=110 errstr=Connection timed out client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:48:48	18279	main	12	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=110 errstr=Connection timed out client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:51:47	18279	main	14	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin//html/asd
+2024-03-04 14:51:53	18279	main	14	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin//html/*
+2024-03-04 14:52:01	18279	main	14	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin//html/index
+2024-03-04 14:52:04	18279	main	15	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:52:04	18279	main	14	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:35	destory module=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so handle=0xcf0b30 success
+2024-03-04 14:58:31	19966	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:58:31	19966	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:58:31	19966	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:58:31	19966	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:58:31	19966	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 14:58:31	19966	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 14:58:31	19966	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:58:31	19966	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:58:31	19966	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:58:31	19966	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:58:32	19966	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-04 14:58:32	19966	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:113	main
+2024-03-04 14:58:32	19966	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 14:58:32	19966	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 14:58:32	19966	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 14:58:32	19966	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 14:58:32	19966	main	0	[INFO]	[system]	lyslg/scheduler.cc:97	0x56cba0 0 stopped
+2024-03-04 14:58:32	19966	main	3	[ERROR]	[system]	lyslg/socket.cc:217	sock=11 connect(/home/lyslg/Documents/chat_room/tmp/test.sock) error errno=111 errstr=Connection refused
+2024-03-04 14:58:32	19966	main	3	[INFO]	[system]	lyslg/socket.cc:175	file delete
+2024-03-04 14:58:32	19966	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-03-04 14:58:32	19966	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-03-04 14:58:32	19966	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=10 is_connected=0 family=1 type=1 protocol=0 local_address=/home/lyslg/Documents/chat_room/tmp/test.sock]
+2024-03-04 14:58:32	19966	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=11 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8062]
+2024-03-04 14:58:32	19966	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=12 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8061]
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:113	main
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 15:00:28	20445	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 15:00:28	20445	main	0	[INFO]	[system]	lyslg/scheduler.cc:97	0x22cbba0 0 stopped
+2024-03-04 15:00:28	20445	main	3	[ERROR]	[system]	lyslg/socket.cc:217	sock=11 connect(/home/lyslg/Documents/chat_room/tmp/test.sock) error errno=111 errstr=Connection refused
+2024-03-04 15:00:28	20445	main	3	[INFO]	[system]	lyslg/socket.cc:175	file delete
+2024-03-04 15:00:28	20445	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-03-04 15:00:28	20445	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-03-04 15:00:28	20445	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=10 is_connected=0 family=1 type=1 protocol=0 local_address=/home/lyslg/Documents/chat_room/tmp/test.sock]
+2024-03-04 15:00:28	20445	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=11 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8062]
+2024-03-04 15:00:28	20445	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=12 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8061]
+2024-03-04 15:00:31	20445	main	8	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin//html/index
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:113	main
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 15:07:00	21426	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 15:07:00	21426	main	0	[INFO]	[system]	lyslg/scheduler.cc:97	0xc43ba0 0 stopped
+2024-03-04 15:07:00	21426	main	3	[ERROR]	[system]	lyslg/socket.cc:217	sock=11 connect(/home/lyslg/Documents/chat_room/tmp/test.sock) error errno=111 errstr=Connection refused
+2024-03-04 15:07:00	21426	main	3	[INFO]	[system]	lyslg/socket.cc:175	file delete
+2024-03-04 15:07:00	21426	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-03-04 15:07:00	21426	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-03-04 15:07:00	21426	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=10 is_connected=0 family=1 type=1 protocol=0 local_address=/home/lyslg/Documents/chat_room/tmp/test.sock]
+2024-03-04 15:07:00	21426	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=11 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8062]
+2024-03-04 15:07:00	21426	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=12 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8061]
+2024-03-04 15:07:19	21426	main	9	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 15:07:19	21426	main	8	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:113	main
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 15:13:17	22199	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 15:13:17	22199	main	0	[INFO]	[system]	lyslg/scheduler.cc:97	0x12daba0 0 stopped
+2024-03-04 15:13:17	22199	main	3	[ERROR]	[system]	lyslg/socket.cc:217	sock=11 connect(/home/lyslg/Documents/chat_room/tmp/test.sock) error errno=111 errstr=Connection refused
+2024-03-04 15:13:17	22199	main	3	[INFO]	[system]	lyslg/socket.cc:175	file delete
+2024-03-04 15:13:17	22199	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-03-04 15:13:17	22199	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-03-04 15:13:17	22199	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=10 is_connected=0 family=1 type=1 protocol=0 local_address=/home/lyslg/Documents/chat_room/tmp/test.sock]
+2024-03-04 15:13:17	22199	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=11 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8062]
+2024-03-04 15:13:17	22199	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=12 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8061]
+2024-03-04 15:13:20	22199	main	8	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin///html/index
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:113	main
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 15:15:37	22319	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 15:15:37	22319	main	0	[INFO]	[system]	lyslg/scheduler.cc:97	0x8c7ba0 0 stopped
+2024-03-04 15:15:37	22319	main	3	[ERROR]	[system]	lyslg/socket.cc:217	sock=11 connect(/home/lyslg/Documents/chat_room/tmp/test.sock) error errno=111 errstr=Connection refused
+2024-03-04 15:15:37	22319	main	3	[INFO]	[system]	lyslg/socket.cc:175	file delete
+2024-03-04 15:15:37	22319	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-03-04 15:15:37	22319	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-03-04 15:15:37	22319	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=10 is_connected=0 family=1 type=1 protocol=0 local_address=/home/lyslg/Documents/chat_room/tmp/test.sock]
+2024-03-04 15:15:37	22319	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=11 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8062]
+2024-03-04 15:15:37	22319	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=12 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8061]
+2024-03-04 15:15:40	22319	main	8	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin///html/index
+2024-03-04 15:15:43	22319	main	8	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin///html/index
+2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:35	destory module=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so handle=0x2303f70 success
+2024-03-04 16:53:16	36058	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 16:53:16	36058	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 16:53:17	36058	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 16:53:17	36058	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 16:53:17	36058	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 16:53:17	36058	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 16:53:17	36058	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 16:53:17	36058	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 16:53:17	36058	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 16:53:17	36058	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 16:53:17	36058	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-04 16:53:17	36058	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:111	main
+2024-03-04 16:53:17	36058	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 16:53:17	36058	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 16:53:17	36058	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 16:53:17	36058	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 16:53:17	36058	main	0	[INFO]	[system]	lyslg/scheduler.cc:97	0x6aa050 0 stopped
+2024-03-04 16:53:17	36058	main	3	[ERROR]	[system]	lyslg/socket.cc:217	sock=11 connect(/home/lyslg/Documents/chat_room/tmp/test.sock) error errno=111 errstr=Connection refused
+2024-03-04 16:53:17	36058	main	3	[INFO]	[system]	lyslg/socket.cc:175	file delete
+2024-03-04 16:53:17	36058	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-03-04 16:53:17	36058	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-03-04 16:53:17	36058	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=10 is_connected=0 family=1 type=1 protocol=0 local_address=/home/lyslg/Documents/chat_room/tmp/test.sock]
+2024-03-04 16:53:17	36058	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=11 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8062]
+2024-03-04 16:53:17	36058	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=12 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8061]
+2024-03-04 16:53:24	36058	main	8	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin///html/index
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:111	main
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 16:57:17	36252	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 16:57:17	36252	main	0	[INFO]	[system]	lyslg/scheduler.cc:97	0x1206050 0 stopped
+2024-03-04 16:57:17	36252	main	3	[ERROR]	[system]	lyslg/socket.cc:217	sock=11 connect(/home/lyslg/Documents/chat_room/tmp/test.sock) error errno=111 errstr=Connection refused
+2024-03-04 16:57:17	36252	main	3	[INFO]	[system]	lyslg/socket.cc:175	file delete
+2024-03-04 16:57:17	36252	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-03-04 16:57:17	36252	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-03-04 16:57:17	36252	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=10 is_connected=0 family=1 type=1 protocol=0 local_address=/home/lyslg/Documents/chat_room/tmp/test.sock]
+2024-03-04 16:57:17	36252	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=11 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8062]
+2024-03-04 16:57:17	36252	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=12 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8061]
+2024-03-04 16:57:54	36252	main	8	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 16:58:24	36252	main	9	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 16:58:44	36252	main	10	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:111	main
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 17:00:55	36706	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 17:00:55	36706	main	0	[INFO]	[system]	lyslg/scheduler.cc:97	0xdcf050 0 stopped
+2024-03-04 17:00:55	36706	main	3	[ERROR]	[system]	lyslg/socket.cc:217	sock=11 connect(/home/lyslg/Documents/chat_room/tmp/test.sock) error errno=111 errstr=Connection refused
+2024-03-04 17:00:55	36706	main	3	[INFO]	[system]	lyslg/socket.cc:175	file delete
+2024-03-04 17:00:55	36706	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-03-04 17:00:55	36706	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-03-04 17:00:55	36706	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=10 is_connected=0 family=1 type=1 protocol=0 local_address=/home/lyslg/Documents/chat_room/tmp/test.sock]
+2024-03-04 17:00:55	36706	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=11 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8062]
+2024-03-04 17:00:55	36706	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=12 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8061]
+2024-03-04 17:00:58	36706	main	8	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:00:58	36706	main	8	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:00:58	36706	main	8	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:00:58	36706	main	8	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:00:58	36706	main	10	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:00:58	36706	main	10	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:00	36706	main	11	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:00	36706	main	11	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:00	36706	main	11	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:00	36706	main	11	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:00	36706	main	12	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:00	36706	main	12	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:01	36706	main	13	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:01	36706	main	13	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:01	36706	main	14	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:01	36706	main	14	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:01	36706	main	15	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:01	36706	main	15	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:03	36706	main	16	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:03	36706	main	16	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:03	36706	main	17	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:03	36706	main	17	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:03	36706	main	18	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:03	36706	main	18	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:04	36706	main	9	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 17:01:08	36706	main	19	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:08	36706	main	19	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:08	36706	main	20	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:08	36706	main	20	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:08	36706	main	22	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:08	36706	main	22	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET / HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:14	36706	main	23	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:14	36706	main	23	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET /lyslg/chat HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:14	36706	main	23	[INFO]	[system]	lyslg/http/ws_session.cc:25	invalid http request
+2024-03-04 17:01:14	36706	main	24	[INFO]	[system]	lyslg/http/ws_session.cc:25	invalid http request
+2024-03-04 17:01:14	36706	main	21	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 17:01:15	36706	main	25	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:15	36706	main	25	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET /lyslg/chat HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:18	36706	main	26	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:18	36706	main	26	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET /lyslg/chat HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:18	36706	main	28	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:18	36706	main	28	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET /lyslg/chat HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:18	36706	main	29	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:18	36706	main	29	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET /lyslg/chat HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:19	36706	main	30	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:19	36706	main	30	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET /lyslg/chat HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:20	36706	main	30	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:20	36706	main	30	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET /lyslg/chat HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:20	36706	main	31	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:20	36706	main	31	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET /lyslg/chat HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:20	36706	main	32	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:20	36706	main	32	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET /lyslg/chat HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:24	36706	main	33	[INFO]	[system]	lyslg/http/ws_session.cc:25	invalid http request
+2024-03-04 17:01:24	36706	main	27	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 17:01:25	36706	main	34	[INFO]	[system]	lyslg/http/ws_session.cc:29	http header Upgrade != websocket
+2024-03-04 17:01:25	36706	main	34	[INFO]	[system]	lyslg/http/ws_session.cc:64	GET /lyslg/chat HTTP/1.1
+connection: keep-alive
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Host:192.168.178.130:8062
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+
+2024-03-04 17:01:34	36706	main	35	[INFO]	[system]	lyslg/http/ws_session.cc:25	invalid http request
+2024-03-04 17:01:34	36706	main	36	[INFO]	[system]	lyslg/http/ws_session.cc:25	invalid http request
+2024-03-04 17:01:34	36706	main	37	[WARN]	[system]	lyslg/http/http_server.cc:30	recv http request fail, errno=11 errstr=Resource temporarily unavailable client:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.178.130:8090 remote_address=[UnknowAddress family=2]]
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/mudule.cc:117	path=/home/lyslg/Documents/chat_room/bin/module
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/library.cc:73	load module name=chat_room version=1.0 path=/home/lyslg/Documents/chat_room/bin/module/libchat_room.so success
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/daemon.cc:77	start_daemon
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/application.cc:111	main
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/log.yml ok
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/system.yml ok
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/server.yml ok
+2024-03-04 17:03:42	37001	UNKNOW	0	[INFO]	[system]	lyslg/config.cc:90	LoadConfFile file=/home/lyslg/Documents/chat_room/bin/conf/worker.yml ok
+2024-03-04 17:03:42	37001	main	0	[INFO]	[system]	lyslg/scheduler.cc:97	0x1340050 0 stopped
+2024-03-04 17:03:42	37001	main	3	[ERROR]	[system]	lyslg/socket.cc:217	sock=11 connect(/home/lyslg/Documents/chat_room/tmp/test.sock) error errno=111 errstr=Connection refused
+2024-03-04 17:03:42	37001	main	3	[INFO]	[system]	lyslg/socket.cc:175	file delete
+2024-03-04 17:03:42	37001	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-03-04 17:03:42	37001	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-03-04 17:03:42	37001	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=tcp name=lyslg/1.1 ssl=0 server bind success: [Socket sock=10 is_connected=0 family=1 type=1 protocol=0 local_address=/home/lyslg/Documents/chat_room/tmp/test.sock]
+2024-03-04 17:03:42	37001	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=11 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8062]
+2024-03-04 17:03:42	37001	main	3	[INFO]	[system]	lyslg/tcp_server.cc:73	type=websocket_server name=lyslg/2.1 ssl=0 server bind success: [Socket sock=12 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8061]
+2024-03-04 17:03:56	37001	main	8	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin///html/index
+2024-03-04 17:03:59	37001	main	8	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin///html/index
+2024-03-04 17:04:00	37001	main	8	[INFO]	[system]	chat/resource_servlet.cc:22	handle path=/home/lyslg/Documents/chat_room/bin///html/index
