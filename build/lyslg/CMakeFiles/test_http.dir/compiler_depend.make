@@ -928,6 +928,21 @@ lyslg/CMakeFiles/test_http.dir/tests/test_http.cc.o: ../lyslg/tests/test_http.cc
   /usr/include/x86_64-linux-gnu/asm/unistd.h \
   /usr/include/x86_64-linux-gnu/asm/unistd_64.h \
   /usr/include/x86_64-linux-gnu/bits/syscall.h \
+  ../lyslg/lyslg/util/json_util.h \
+  /usr/include/jsoncpp/json/json.h \
+  /usr/include/jsoncpp/json/config.h \
+  /usr/include/jsoncpp/json/allocator.h \
+  /usr/include/jsoncpp/json/version.h \
+  /usr/include/jsoncpp/json/json_features.h \
+  /usr/include/jsoncpp/json/forwards.h \
+  /usr/include/jsoncpp/json/reader.h \
+  /usr/include/jsoncpp/json/value.h \
+  /usr/include/c++/8/deque \
+  /usr/include/c++/8/bits/stl_deque.h \
+  /usr/include/c++/8/bits/deque.tcc \
+  /usr/include/c++/8/stack \
+  /usr/include/c++/8/bits/stl_stack.h \
+  /usr/include/jsoncpp/json/writer.h \
   ../lyslg/lyslg/mutex.h \
   /usr/include/c++/8/thread \
   /usr/include/c++/8/chrono \
@@ -947,6 +962,16 @@ lyslg/CMakeFiles/test_http.dir/tests/test_http.cc.o: ../lyslg/tests/test_http.cc
 /usr/include/c++/8/ratio:
 
 ../lyslg/lyslg/mutex.h:
+
+/usr/include/jsoncpp/json/writer.h:
+
+/usr/include/c++/8/bits/stl_stack.h:
+
+/usr/include/jsoncpp/json/forwards.h:
+
+/usr/include/jsoncpp/json/json.h:
+
+../lyslg/lyslg/util/json_util.h:
 
 /usr/include/x86_64-linux-gnu/bits/syscall.h:
 
@@ -1037,6 +1062,8 @@ lyslg/CMakeFiles/test_http.dir/tests/test_http.cc.o: ../lyslg/tests/test_http.cc
 /usr/include/boost/mpl/vector/aux_/O1_size.hpp:
 
 /usr/include/boost/mpl/prior.hpp:
+
+/usr/include/jsoncpp/json/reader.h:
 
 /usr/include/boost/mpl/advance_fwd.hpp:
 
@@ -1204,6 +1231,8 @@ lyslg/CMakeFiles/test_http.dir/tests/test_http.cc.o: ../lyslg/tests/test_http.cc
 
 /usr/include/boost/predef/platform/windows_system.h:
 
+/usr/include/jsoncpp/json/json_features.h:
+
 /usr/include/boost/predef/platform/windows_desktop.h:
 
 /usr/include/boost/predef/platform/mingw64.h:
@@ -1309,6 +1338,8 @@ lyslg/CMakeFiles/test_http.dir/tests/test_http.cc.o: ../lyslg/tests/test_http.cc
 /usr/include/boost/mpl/pop_front_fwd.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/c++/8/bits/stl_deque.h:
 
 /usr/include/x86_64-linux-gnu/bits/posix_opt.h:
 
@@ -1430,6 +1461,8 @@ lyslg/CMakeFiles/test_http.dir/tests/test_http.cc.o: ../lyslg/tests/test_http.cc
 
 /usr/include/x86_64-linux-gnu/bits/fp-logb.h:
 
+/usr/include/c++/8/deque:
+
 /usr/include/boost/predef/library/std/dinkumware.h:
 
 /usr/include/boost/mpl/aux_/config/integral.hpp:
@@ -1457,6 +1490,8 @@ lyslg/CMakeFiles/test_http.dir/tests/test_http.cc.o: ../lyslg/tests/test_http.cc
 /usr/include/x86_64-linux-gnu/c++/8/bits/ctype_inline.h:
 
 /usr/include/x86_64-linux-gnu/bits/math-vector.h:
+
+/usr/include/jsoncpp/json/version.h:
 
 /usr/include/boost/mpl/list/aux_/preprocessed/plain/list10.hpp:
 
@@ -1495,6 +1530,8 @@ lyslg/CMakeFiles/test_http.dir/tests/test_http.cc.o: ../lyslg/tests/test_http.cc
 /usr/include/boost/preprocessor/list/fold_right.hpp:
 
 /usr/include/boost/iterator/detail/config_def.hpp:
+
+/usr/include/c++/8/stack:
 
 /usr/include/boost/range/detail/has_member_size.hpp:
 
@@ -1555,6 +1592,8 @@ lyslg/CMakeFiles/test_http.dir/tests/test_http.cc.o: ../lyslg/tests/test_http.cc
 /usr/include/boost/mpl/list.hpp:
 
 /usr/include/c++/8/ext/alloc_traits.h:
+
+/usr/include/c++/8/bits/deque.tcc:
 
 /usr/include/c++/8/bits/invoke.h:
 
@@ -1681,6 +1720,8 @@ lyslg/CMakeFiles/test_http.dir/tests/test_http.cc.o: ../lyslg/tests/test_http.cc
 /usr/include/c++/8/exception:
 
 /usr/include/boost/preprocessor/arithmetic/sub.hpp:
+
+/usr/include/jsoncpp/json/config.h:
 
 /usr/include/c++/8/bits/ptr_traits.h:
 
@@ -2292,6 +2333,8 @@ lyslg/CMakeFiles/test_http.dir/tests/test_http.cc.o: ../lyslg/tests/test_http.cc
 
 /usr/include/boost/preprocessor/array/elem.hpp:
 
+/usr/include/jsoncpp/json/allocator.h:
+
 /usr/include/boost/preprocessor/array/data.hpp:
 
 /usr/include/boost/concept/detail/backward_compatibility.hpp:
@@ -2593,6 +2636,8 @@ lyslg/CMakeFiles/test_http.dir/tests/test_http.cc.o: ../lyslg/tests/test_http.cc
 /usr/include/boost/mpl/lambda_fwd.hpp:
 
 /usr/include/boost/mpl/aux_/largest_int.hpp:
+
+/usr/include/jsoncpp/json/value.h:
 
 /usr/include/boost/mpl/aux_/preprocessed/gcc/times.hpp:
 

@@ -7,6 +7,11 @@
         function write_msg(msg) {
             document.getElementById("message").innerHTML += msg + "<br/>"
         }
+//         创建了一个新的 WebSocket 对象，连接到地址为 "ws://192.168.178.130:8062/lyslg/chat" 的 WebSocket 服务器。
+// 在发生错误时，执行了 onerror 回调函数，向页面输出消息 "onerror"。
+// 在连接成功打开时，执行了 onopen 回调函数，构建一个包含登录信息的对象 o，并通过 WebSocket 发送这个对象的 JSON 字符串。
+// 在接收到服务器发送的消息时，执行了 onmessage 回调函数，解析收到的 JSON 数据，并根据数据的类型执行相应的操作，比如输出用户加入/离开聊天室的消息或显示聊天消息。
+// 在连接关闭时，执行了 onclose 回调函数，输出消息 "服务器断开"。
         function login() {
             websocket = new WebSocket("ws://192.168.178.130:8062/lyslg/chat");
 

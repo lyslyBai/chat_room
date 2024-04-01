@@ -231,44 +231,88 @@ lyslg/CMakeFiles/test_daemon.dir/tests/test_daemon.cc.o: ../lyslg/tests/test_dae
   /usr/include/x86_64-linux-gnu/c++/8/bits/ctype_inline.h \
   /usr/include/c++/8/bits/locale_facets.tcc \
   /usr/include/c++/8/bits/basic_ios.tcc \
+  ../lyslg/lyslg/util/json_util.h \
+  /usr/include/c++/8/iostream \
+  /usr/include/c++/8/ostream \
+  /usr/include/c++/8/bits/ostream.tcc \
+  /usr/include/c++/8/istream \
+  /usr/include/c++/8/bits/istream.tcc \
+  /usr/include/jsoncpp/json/json.h \
+  /usr/include/jsoncpp/json/config.h \
+  /usr/include/c++/8/cstddef \
+  /usr/include/c++/8/sstream \
+  /usr/include/c++/8/bits/sstream.tcc \
+  /usr/include/jsoncpp/json/allocator.h \
+  /usr/include/c++/8/cstring \
+  /usr/include/string.h \
+  /usr/include/strings.h \
+  /usr/include/jsoncpp/json/version.h \
+  /usr/include/jsoncpp/json/json_features.h \
+  /usr/include/jsoncpp/json/forwards.h \
+  /usr/include/jsoncpp/json/reader.h \
+  /usr/include/jsoncpp/json/value.h \
+  /usr/include/c++/8/map \
+  /usr/include/c++/8/bits/stl_tree.h \
+  /usr/include/c++/8/bits/stl_map.h \
+  /usr/include/c++/8/bits/stl_multimap.h \
+  /usr/include/c++/8/deque \
+  /usr/include/c++/8/bits/stl_deque.h \
+  /usr/include/c++/8/bits/deque.tcc \
+  /usr/include/c++/8/stack \
+  /usr/include/c++/8/bits/stl_stack.h \
+  /usr/include/jsoncpp/json/writer.h \
   ../lyslg/lyslg/thread.h \
   ../lyslg/lyslg/timer.h \
   /usr/include/c++/8/set \
-  /usr/include/c++/8/bits/stl_tree.h \
   /usr/include/c++/8/bits/stl_set.h \
   /usr/include/c++/8/bits/stl_multiset.h \
   ../lyslg/lyslg/log.h \
-  /usr/include/c++/8/sstream \
-  /usr/include/c++/8/istream \
-  /usr/include/c++/8/ostream \
-  /usr/include/c++/8/bits/ostream.tcc \
-  /usr/include/c++/8/bits/istream.tcc \
-  /usr/include/c++/8/bits/sstream.tcc \
   /usr/include/c++/8/fstream \
   /usr/include/c++/8/bits/codecvt.h \
   /usr/include/x86_64-linux-gnu/c++/8/bits/basic_file.h \
   /usr/include/x86_64-linux-gnu/c++/8/bits/c++io.h \
-  /usr/include/c++/8/bits/fstream.tcc \
-  /usr/include/c++/8/map \
-  /usr/include/c++/8/bits/stl_map.h \
-  /usr/include/c++/8/bits/stl_multimap.h
+  /usr/include/c++/8/bits/fstream.tcc
 
+
+../lyslg/lyslg/thread.h:
+
+/usr/include/c++/8/bits/stl_deque.h:
+
+/usr/include/c++/8/deque:
+
+/usr/include/c++/8/bits/stl_tree.h:
 
 /usr/include/c++/8/map:
 
+/usr/include/jsoncpp/json/value.h:
+
+/usr/include/jsoncpp/json/reader.h:
+
+/usr/include/jsoncpp/json/version.h:
+
+/usr/include/string.h:
+
 /usr/include/c++/8/bits/sstream.tcc:
+
+/usr/include/c++/8/cstddef:
+
+/usr/include/jsoncpp/json/config.h:
+
+/usr/include/c++/8/bits/stl_stack.h:
+
+/usr/include/jsoncpp/json/json.h:
+
+/usr/include/c++/8/istream:
 
 /usr/include/c++/8/bits/ostream.tcc:
 
 /usr/include/c++/8/ostream:
 
-/usr/include/c++/8/istream:
-
-/usr/include/c++/8/bits/stl_tree.h:
-
-../lyslg/lyslg/thread.h:
-
 /usr/include/c++/8/bits/streambuf_iterator.h:
+
+/usr/include/c++/8/stack:
+
+/usr/include/jsoncpp/json/forwards.h:
 
 /usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
 
@@ -293,6 +337,8 @@ lyslg/CMakeFiles/test_daemon.dir/tests/test_daemon.cc.o: ../lyslg/tests/test_dae
 /usr/include/c++/8/bits/locale_facets.h:
 
 /usr/include/x86_64-linux-gnu/asm/unistd_64.h:
+
+/usr/include/c++/8/iostream:
 
 /usr/include/x86_64-linux-gnu/sys/syscall.h:
 
@@ -386,6 +432,8 @@ lyslg/CMakeFiles/test_daemon.dir/tests/test_daemon.cc.o: ../lyslg/tests/test_dae
 
 /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
+/usr/include/jsoncpp/json/json_features.h:
+
 /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
@@ -396,7 +444,11 @@ lyslg/CMakeFiles/test_daemon.dir/tests/test_daemon.cc.o: ../lyslg/tests/test_dae
 
 /usr/include/c++/8/debug/assertions.h:
 
+/usr/include/c++/8/cstring:
+
 /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h:
+
+/usr/include/jsoncpp/json/writer.h:
 
 /usr/include/c++/8/bits/stl_iterator_base_types.h:
 
@@ -532,6 +584,8 @@ lyslg/CMakeFiles/test_daemon.dir/tests/test_daemon.cc.o: ../lyslg/tests/test_dae
 
 /usr/include/c++/8/typeinfo:
 
+/usr/include/strings.h:
+
 /usr/include/c++/8/bits/streambuf.tcc:
 
 /usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
@@ -549,6 +603,8 @@ lyslg/CMakeFiles/test_daemon.dir/tests/test_daemon.cc.o: ../lyslg/tests/test_dae
 /usr/include/x86_64-linux-gnu/bits/byteswap.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
+
+../lyslg/lyslg/util/json_util.h:
 
 /usr/include/c++/8/exception:
 
@@ -737,6 +793,10 @@ lyslg/CMakeFiles/test_daemon.dir/tests/test_daemon.cc.o: ../lyslg/tests/test_dae
 /usr/include/c++/8/bits/stl_construct.h:
 
 /usr/include/c++/8/bits/functional_hash.h:
+
+/usr/include/c++/8/bits/deque.tcc:
+
+/usr/include/jsoncpp/json/allocator.h:
 
 /usr/include/c++/8/bits/vector.tcc:
 

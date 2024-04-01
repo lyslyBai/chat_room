@@ -265,6 +265,25 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
   /usr/include/x86_64-linux-gnu/bits/confname.h \
   /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
   /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
+  ../lyslg/lyslg/util/json_util.h \
+  /usr/include/jsoncpp/json/json.h \
+  /usr/include/jsoncpp/json/config.h \
+  /usr/include/c++/8/cstddef \
+  /usr/include/c++/8/sstream \
+  /usr/include/c++/8/bits/sstream.tcc \
+  /usr/include/jsoncpp/json/allocator.h \
+  /usr/include/c++/8/cstring \
+  /usr/include/jsoncpp/json/version.h \
+  /usr/include/jsoncpp/json/json_features.h \
+  /usr/include/jsoncpp/json/forwards.h \
+  /usr/include/jsoncpp/json/reader.h \
+  /usr/include/jsoncpp/json/value.h \
+  /usr/include/c++/8/deque \
+  /usr/include/c++/8/bits/stl_deque.h \
+  /usr/include/c++/8/bits/deque.tcc \
+  /usr/include/c++/8/stack \
+  /usr/include/c++/8/bits/stl_stack.h \
+  /usr/include/jsoncpp/json/writer.h \
   ../lyslg/lyslg/thread.h \
   ../lyslg/lyslg/timer.h \
   /usr/include/c++/8/set \
@@ -336,14 +355,11 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
   /usr/include/openssl/dtls1.h \
   /usr/include/openssl/srtp.h \
   ../lyslg/lyslg/config.h \
-  /usr/include/c++/8/sstream \
-  /usr/include/c++/8/bits/sstream.tcc \
   /usr/include/boost/lexical_cast.hpp \
   /usr/include/boost/config.hpp \
   /usr/include/boost/config/user.hpp \
   /usr/include/boost/config/detail/select_compiler_config.hpp \
   /usr/include/boost/config/compiler/gcc.hpp \
-  /usr/include/c++/8/cstddef \
   /usr/include/boost/config/detail/select_stdlib_config.hpp \
   /usr/include/boost/config/stdlib/libstdcpp3.hpp \
   /usr/include/boost/config/detail/select_platform_config.hpp \
@@ -721,7 +737,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
   /usr/include/boost/move/detail/std_ns_begin.hpp \
   /usr/include/boost/move/detail/std_ns_end.hpp \
   /usr/include/boost/lexical_cast/detail/converter_lexical_streams.hpp \
-  /usr/include/c++/8/cstring \
   /usr/include/c++/8/locale \
   /usr/include/c++/8/bits/locale_facets_nonio.h \
   /usr/include/x86_64-linux-gnu/c++/8/bits/time_members.h \
@@ -1084,8 +1099,15 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
   ../lyslg/lyslg/socket.h \
   ../lyslg/lyslg/http/http.h \
   ../lyslg/lyslg/http/servlet.h \
-  ../lyslg/lyslg/mutex.h
+  ../lyslg/lyslg/mutex.h \
+  ../lyslg/lyslg/http/ws_server.h \
+  ../lyslg/lyslg/http/ws_session.h \
+  ../lyslg/lyslg/config.h \
+  ../lyslg/lyslg/http/ws_servlet.h \
+  ../lyslg/lyslg/thread.h
 
+
+../lyslg/lyslg/http/ws_server.h:
 
 ../lyslg/lyslg/http/servlet.h:
 
@@ -1216,8 +1238,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 /usr/include/boost/mpl/vector/aux_/O1_size.hpp:
 
 /usr/include/boost/mpl/prior.hpp:
-
-/usr/include/boost/mpl/advance_fwd.hpp:
 
 /usr/include/boost/mpl/minus.hpp:
 
@@ -1353,6 +1373,8 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/predef/hardware/simd/x86_amd/versions.h:
 
+../lyslg/lyslg/http/ws_session.h:
+
 /usr/include/boost/predef/hardware/simd/x86_amd.h:
 
 /usr/include/boost/predef/hardware/simd/x86/versions.h:
@@ -1362,8 +1384,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 /usr/include/boost/predef/platform/ios.h:
 
 /usr/include/boost/predef/platform/windows_system.h:
-
-/usr/include/boost/predef/platform/windows_desktop.h:
 
 /usr/include/boost/predef/platform/mingw64.h:
 
@@ -1416,8 +1436,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 /usr/include/boost/predef/library/std/modena.h:
 
 /usr/include/boost/predef/library/std/libcomo.h:
-
-/usr/include/boost/predef/library/std/dinkumware.h:
 
 /usr/include/boost/predef/library/std/cxx.h:
 
@@ -1551,13 +1569,13 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/c++/8/bits/codecvt.h:
 
+../lyslg/lyslg/http/ws_servlet.h:
+
 /usr/include/c++/8/unordered_map:
 
 /usr/include/libintl.h:
 
 /usr/include/c++/8/locale:
-
-/usr/include/c++/8/cstring:
 
 /usr/include/boost/lexical_cast/detail/converter_lexical_streams.hpp:
 
@@ -1589,41 +1607,31 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/detail/lcast_precision.hpp:
 
-/usr/include/boost/core/noncopyable.hpp:
+/usr/include/boost/type_traits/has_right_shift.hpp:
 
-/usr/include/openssl/ssl2.h:
+/usr/include/boost/predef/hardware.h:
 
-/usr/include/c++/8/bits/streambuf.tcc:
+/usr/include/boost/type_traits/has_left_shift.hpp:
 
-/usr/include/openssl/cterr.h:
+/usr/include/boost/lexical_cast/detail/converter_lexical.hpp:
 
-/usr/include/boost/type_traits/is_void.hpp:
+/usr/include/boost/numeric/conversion/detail/numeric_cast_traits.hpp:
 
-/usr/include/openssl/async.h:
+/usr/include/boost/numeric/conversion/detail/bounds.hpp:
 
-/usr/include/x86_64-linux-gnu/asm/bitsperlong.h:
+/usr/include/boost/mpl/aux_/iter_apply.hpp:
 
-/usr/local/include/yaml-cpp/node/emit.h:
+/usr/include/boost/numeric/conversion/bounds.hpp:
 
-/usr/include/boost/detail/workaround.hpp:
+/usr/include/boost/predef/compiler/pgi.h:
 
-/usr/include/x86_64-linux-gnu/sys/syscall.h:
+/usr/include/boost/numeric/conversion/detail/converter.hpp:
 
-/usr/include/c++/8/bits/concept_check.h:
+/usr/include/boost/predef/architecture/sys390.h:
 
-/usr/include/openssl/pkcs7err.h:
+/usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h:
 
-/usr/include/openssl/srtp.h:
-
-/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
-
-/usr/include/openssl/x509err.h:
-
-/usr/include/boost/mpl/begin_end.hpp:
-
-/usr/include/x86_64-linux-gnu/asm/posix_types_64.h:
-
-/usr/include/boost/mpl/aux_/preprocessed/gcc/times.hpp:
+/usr/include/x86_64-linux-gnu/bits/fp-fast.h:
 
 /usr/include/openssl/dsaerr.h:
 
@@ -1641,13 +1649,7 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/preprocessor/logical/not.hpp:
 
-/usr/include/boost/preprocessor/array/data.hpp:
-
 /usr/include/boost/concept/detail/backward_compatibility.hpp:
-
-/usr/include/boost/math/special_functions/fpclassify.hpp:
-
-/usr/include/openssl/evp.h:
 
 /usr/include/openssl/buffererr.h:
 
@@ -1685,6 +1687,44 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/range/detail/common.hpp:
 
+/usr/include/boost/math/special_functions/fpclassify.hpp:
+
+/usr/include/openssl/evp.h:
+
+/usr/include/boost/current_function.hpp:
+
+/usr/include/boost/predef/library/std/dinkumware.h:
+
+/usr/include/c++/8/deque:
+
+/usr/include/boost/mpl/aux_/preprocessed/gcc/times.hpp:
+
+/usr/include/jsoncpp/json/value.h:
+
+/usr/include/math.h:
+
+/usr/include/boost/mpl/advance_fwd.hpp:
+
+/usr/include/jsoncpp/json/reader.h:
+
+/usr/include/boost/mpl/list/aux_/preprocessed/plain/list10.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
+
+/usr/include/jsoncpp/json/version.h:
+
+/usr/include/c++/8/bits/sstream.tcc:
+
+/usr/include/boost/detail/indirect_traits.hpp:
+
+/usr/include/boost/mpl/or.hpp:
+
+/usr/include/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp:
+
+/usr/include/boost/mpl/aux_/config/bind.hpp:
+
+/usr/include/c++/8/bits/stl_stack.h:
+
 /usr/include/boost/predef/compiler/visualc.h:
 
 /usr/include/x86_64-linux-gnu/bits/getopt_core.h:
@@ -1709,15 +1749,15 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/preprocessor/repetition/enum_trailing_params.hpp:
 
+/usr/include/openssl/bioerr.h:
+
+/usr/include/boost/mpl/protect.hpp:
+
 /usr/include/x86_64-linux-gnu/sys/sysmacros.h:
 
 /usr/include/x86_64-linux-gnu/c++/8/bits/ctype_inline.h:
 
 /usr/include/x86_64-linux-gnu/bits/math-vector.h:
-
-/usr/include/boost/mpl/list/aux_/preprocessed/plain/list10.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
 
 /usr/include/boost/predef/os/cygwin.h:
 
@@ -1745,6 +1785,14 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/x86_64-linux-gnu/asm/sockios.h:
 
+/usr/include/boost/preprocessor/array/data.hpp:
+
+/usr/include/jsoncpp/json/allocator.h:
+
+/usr/include/boost/mpl/aux_/config/gpu.hpp:
+
+/usr/include/c++/8/bits/stl_algo.h:
+
 /usr/local/include/yaml-cpp/traits.h:
 
 /usr/include/unistd.h:
@@ -1769,7 +1817,21 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/type_traits/is_array.hpp:
 
+/usr/include/jsoncpp/json/json.h:
+
 /usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h:
+
+/usr/include/x86_64-linux-gnu/asm/bitsperlong.h:
+
+/usr/local/include/yaml-cpp/node/emit.h:
+
+/usr/include/boost/detail/workaround.hpp:
+
+/usr/include/boost/mpl/begin_end.hpp:
+
+/usr/include/x86_64-linux-gnu/asm/posix_types_64.h:
+
+/usr/include/openssl/x509err.h:
 
 /usr/include/x86_64-linux-gnu/asm/posix_types.h:
 
@@ -1780,6 +1842,10 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 /usr/include/boost/mpl/aux_/iter_fold_if_impl.hpp:
 
 /usr/include/boost/type_traits/intrinsics.hpp:
+
+/usr/include/boost/utility.hpp:
+
+/usr/include/asm-generic/socket.h:
 
 /usr/include/x86_64-linux-gnu/c++/8/bits/gthr.h:
 
@@ -1807,6 +1873,10 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/mpl/next.hpp:
 
+/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
+
+/usr/include/c++/8/bits/ostream.tcc:
+
 /usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
 
 /usr/include/x86_64-linux-gnu/sys/ucontext.h:
@@ -1821,13 +1891,23 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/c++/8/bits/streambuf_iterator.h:
 
+/usr/include/ctype.h:
+
+/usr/include/boost/predef/detail/_exception.h:
+
+/usr/include/boost/mpl/aux_/config/preprocessor.hpp:
+
+/usr/include/c++/8/bits/move.h:
+
 /usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
+
+/usr/include/openssl/srtp.h:
 
 /usr/include/c++/8/iosfwd:
 
 /usr/include/wctype.h:
-
-/usr/include/openssl/bnerr.h:
 
 /usr/include/boost/math/tools/promotion.hpp:
 
@@ -1873,6 +1953,8 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/c++/8/bits/allocator.h:
 
+/usr/include/x86_64-linux-gnu/sys/syscall.h:
+
 /usr/include/c++/8/iostream:
 
 /usr/include/c++/8/bits/slice_array.h:
@@ -1881,17 +1963,9 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 ../lyslg/lyslg/address.h:
 
-/usr/include/openssl/asyncerr.h:
-
-/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
-
 /usr/include/boost/preprocessor/repetition/repeat_from_to.hpp:
 
 /usr/include/c++/8/functional:
-
-/usr/include/boost/mpl/protect.hpp:
-
-/usr/include/openssl/bioerr.h:
 
 /usr/include/c++/8/bits/atomic_lockfree_defines.h:
 
@@ -1903,17 +1977,23 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/x86_64-linux-gnu/bits/types.h:
 
+/usr/include/c++/8/bits/stl_deque.h:
+
 /usr/include/x86_64-linux-gnu/bits/posix_opt.h:
 
-/usr/include/openssl/dtls1.h:
-
-/usr/include/boost/config/helper_macros.hpp:
-
 /usr/include/boost/preprocessor/list/fold_left.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/timex.h:
+
+/usr/include/x86_64-linux-gnu/asm/unistd.h:
+
+/usr/include/boost/version.hpp:
 
 /usr/include/x86_64-linux-gnu/c++/8/bits/gthr-default.h:
 
 /usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/include/jsoncpp/json/config.h:
 
 /usr/include/c++/8/bits/ptr_traits.h:
 
@@ -1927,13 +2007,11 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/mpl/bool.hpp:
 
+/usr/include/c++/8/cstring:
+
 /usr/include/c++/8/algorithm:
 
 /usr/include/c++/8/stdlib.h:
-
-/usr/include/boost/predef/hardware.h:
-
-/usr/include/boost/type_traits/has_left_shift.hpp:
 
 /usr/include/c++/8/ratio:
 
@@ -1977,15 +2055,21 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/c++/8/bits/cxxabi_forced.h:
 
+/usr/include/boost/predef/platform/windows_desktop.h:
+
+/usr/include/jsoncpp/json/json_features.h:
+
+/usr/include/boost/preprocessor/repetition/enum_params.hpp:
+
 /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
 
 /usr/include/c++/8/ext/type_traits.h:
 
-/usr/include/c++/8/sstream:
-
 /usr/include/boost/mpl/clear.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
+/usr/include/c++/8/sstream:
 
 /usr/include/c++/8/bits/stl_set.h:
 
@@ -2028,6 +2112,8 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 /usr/local/include/yaml-cpp/null.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
+
+/usr/include/c++/8/bits/deque.tcc:
 
 /usr/include/c++/8/bits/invoke.h:
 
@@ -2076,18 +2162,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
 
 /usr/include/linux/errno.h:
-
-/usr/include/boost/predef/detail/_exception.h:
-
-/usr/include/boost/mpl/aux_/config/preprocessor.hpp:
-
-/usr/include/c++/8/bits/move.h:
-
-/usr/include/x86_64-linux-gnu/bits/timex.h:
-
-/usr/include/boost/version.hpp:
-
-/usr/include/x86_64-linux-gnu/asm/unistd.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 
@@ -2203,11 +2277,17 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/c++/8/bits/stl_algobase.h:
 
+/usr/include/openssl/bnerr.h:
+
+/usr/include/jsoncpp/json/writer.h:
+
 /usr/include/c++/8/bits/stl_iterator_base_types.h:
 
-/usr/include/ctype.h:
-
 /usr/include/strings.h:
+
+/usr/include/c++/8/bits/streambuf.tcc:
+
+/usr/include/openssl/ssl2.h:
 
 /usr/include/boost/predef/os.h:
 
@@ -2239,15 +2319,17 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/c++/8/bits/cpp_type_traits.h:
 
+/usr/include/jsoncpp/json/forwards.h:
+
 ../lyslg/lyslg/http/http_server.h:
-
-/usr/include/c++/8/debug/assertions.h:
-
-/usr/include/openssl/x509_vfy.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
 
 /usr/include/boost/preprocessor/facilities/overload.hpp:
+
+/usr/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_common.hpp:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
 /usr/include/linux/stddef.h:
 
@@ -2265,10 +2347,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/c++/8/bits/stringfwd.h:
 
-/usr/include/openssl/ssl3.h:
-
-/usr/include/boost/exception/exception.hpp:
-
 /usr/include/boost/mpl/aux_/template_arity.hpp:
 
 /usr/include/c++/8/bits/ios_base.h:
@@ -2283,13 +2361,19 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/features.h:
 
-/usr/include/openssl/tls1.h:
-
-/usr/include/boost/preprocessor/control/while.hpp:
+../lyslg/lyslg/util/json_util.h:
 
 /usr/include/c++/8/exception:
 
-../lyslg/lyslg/config.h:
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
+
+/usr/include/openssl/asyncerr.h:
+
+/usr/include/boost/preprocessor/control/while.hpp:
+
+/usr/include/openssl/tls1.h:
+
+/usr/include/boost/type_traits/is_void.hpp:
 
 /usr/include/c++/8/bits/locale_classes.h:
 
@@ -2371,12 +2455,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/mpl/aux_/arity_spec.hpp:
 
-/usr/include/boost/predef/compiler/sunpro.h:
-
-/usr/include/openssl/hmac.h:
-
-/usr/include/boost/type_traits/is_const.hpp:
-
 /usr/lib/gcc/x86_64-linux-gnu/8/include-fixed/syslimits.h:
 
 /usr/include/boost/mpl/push_back_fwd.hpp:
@@ -2425,15 +2503,19 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/c++/8/string:
 
-/usr/include/boost/mpl/aux_/preprocessor/params.hpp:
+/usr/include/boost/numeric/conversion/numeric_cast_traits.hpp:
 
 /usr/include/c++/8/bits/nested_exception.h:
 
 /usr/include/netinet/in.h:
 
-/usr/include/boost/numeric/conversion/numeric_cast_traits.hpp:
+/usr/include/boost/mpl/aux_/preprocessor/params.hpp:
 
 /usr/include/c++/8/cstdint:
+
+/usr/include/x86_64-linux-gnu/bits/mathinline.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
 
 ../lyslg/lyslg/http/http.h:
 
@@ -2507,6 +2589,10 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 ../lyslg/lyslg/util.h:
 
+/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
+
+/usr/include/boost/type_traits/is_scalar.hpp:
+
 /usr/include/boost/type_traits/has_plus.hpp:
 
 /usr/lib/gcc/x86_64-linux-gnu/8/include/stdarg.h:
@@ -2527,25 +2613,47 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/mpl/aux_/config/eti.hpp:
 
-/usr/include/boost/predef/architecture/sys390.h:
-
-/usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h:
-
-/usr/include/openssl/ct.h:
-
 /usr/include/x86_64-linux-gnu/bits/in.h:
 
 /usr/include/boost/type_traits/detail/yes_no_type.hpp:
 
 /usr/include/boost/mpl/has_xxx.hpp:
 
+/usr/include/openssl/ct.h:
+
 /usr/include/boost/iterator/iterator_traits.hpp:
 
 /usr/include/c++/8/bits/allocated_ptr.h:
 
-/usr/include/c++/8/bits/sstream.tcc:
+/usr/include/c++/8/debug/assertions.h:
 
-/usr/include/boost/detail/indirect_traits.hpp:
+/usr/include/openssl/x509_vfy.h:
+
+/usr/include/c++/8/bits/concept_check.h:
+
+/usr/include/openssl/pkcs7err.h:
+
+/usr/include/boost/predef/compiler/sunpro.h:
+
+/usr/include/openssl/hmac.h:
+
+/usr/include/boost/type_traits/is_const.hpp:
+
+/usr/include/openssl/async.h:
+
+/usr/include/openssl/cterr.h:
+
+/usr/include/boost/exception/exception.hpp:
+
+/usr/include/openssl/ssl3.h:
+
+/usr/include/boost/config/helper_macros.hpp:
+
+/usr/include/openssl/dtls1.h:
+
+/usr/include/boost/core/noncopyable.hpp:
+
+../lyslg/lyslg/config.h:
 
 /usr/include/boost/lexical_cast.hpp:
 
@@ -2568,12 +2676,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 /usr/include/wchar.h:
 
 /usr/include/boost/type_traits/has_minus_assign.hpp:
-
-/usr/include/boost/mpl/or.hpp:
-
-/usr/include/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp:
-
-/usr/include/boost/mpl/aux_/config/bind.hpp:
 
 /usr/include/boost/config/detail/select_stdlib_config.hpp:
 
@@ -2689,8 +2791,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/mpl/aux_/lambda_arity_param.hpp:
 
-/usr/include/boost/lexical_cast/detail/converter_lexical.hpp:
-
 /usr/include/boost/mpl/aux_/integral_wrapper.hpp:
 
 /usr/include/boost/mpl/aux_/static_cast.hpp:
@@ -2787,6 +2887,8 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/iterator/detail/config_def.hpp:
 
+/usr/include/c++/8/stack:
+
 /usr/include/boost/range/detail/has_member_size.hpp:
 
 /usr/include/c++/8/bits/gslice_array.h:
@@ -2835,9 +2937,9 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/type_traits/add_reference.hpp:
 
-/usr/include/boost/mpl/aux_/preprocessed/gcc/less.hpp:
-
 /usr/include/c++/8/cstddef:
+
+/usr/include/boost/mpl/aux_/preprocessed/gcc/less.hpp:
 
 /usr/include/boost/type_traits/add_rvalue_reference.hpp:
 
@@ -2865,14 +2967,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/mpl/bind.hpp:
 
-/usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
-
-/usr/include/x86_64-linux-gnu/bits/mathinline.h:
-
-/usr/include/boost/mpl/aux_/config/gpu.hpp:
-
-/usr/include/c++/8/bits/stl_algo.h:
-
 /usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
 
 /usr/include/boost/type_traits/is_complete.hpp:
@@ -2892,10 +2986,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 /usr/include/boost/type_traits/is_volatile.hpp:
 
 /usr/include/boost/type_traits/is_member_function_pointer.hpp:
-
-/usr/include/c++/8/bits/ostream.tcc:
-
-/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
 
 /usr/include/boost/utility/addressof.hpp:
 
@@ -2951,8 +3041,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/preprocessor/array/size.hpp:
 
-/usr/include/boost/preprocessor/repetition/enum_params.hpp:
-
 /usr/include/boost/mpl/next_prior.hpp:
 
 /usr/include/boost/mpl/aux_/full_lambda.hpp:
@@ -2966,8 +3054,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 /usr/include/c++/8/bits/stl_function.h:
 
 /usr/include/boost/mpl/aux_/has_type.hpp:
-
-/usr/include/boost/numeric/conversion/detail/bounds.hpp:
 
 /usr/include/x86_64-linux-gnu/c++/8/bits/messages_members.h:
 
@@ -3099,12 +3185,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/type_traits/is_unsigned.hpp:
 
-/usr/include/asm-generic/socket.h:
-
-/usr/include/boost/utility.hpp:
-
-/usr/include/math.h:
-
 /usr/include/boost/utility/base_from_member.hpp:
 
 /usr/include/boost/utility/binary.hpp:
@@ -3129,10 +3209,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 
 /usr/include/boost/core/checked_delete.hpp:
 
-/usr/include/boost/predef/compiler/pgi.h:
-
-/usr/include/boost/numeric/conversion/detail/converter.hpp:
-
 /usr/include/x86_64-linux-gnu/bits/select.h:
 
 /usr/include/boost/range/distance.hpp:
@@ -3154,8 +3230,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 /usr/include/boost/lexical_cast/bad_lexical_cast.hpp:
 
 /usr/include/boost/throw_exception.hpp:
-
-/usr/include/boost/current_function.hpp:
 
 /usr/include/boost/lexical_cast/detail/is_character.hpp:
 
@@ -3190,10 +3264,6 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 /usr/include/boost/mpl/numeric_cast.hpp:
 
 /usr/include/boost/mpl/aux_/numeric_cast_utils.hpp:
-
-/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
-
-/usr/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_common.hpp:
 
 /usr/include/boost/predef/platform/windows_server.h:
 
@@ -3236,17 +3306,3 @@ lyslg/CMakeFiles/test_application.dir/tests/test_application.cc.o: ../lyslg/test
 /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
 
 /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
-
-/usr/include/x86_64-linux-gnu/bits/fp-fast.h:
-
-/usr/include/boost/type_traits/is_scalar.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
-
-/usr/include/boost/mpl/aux_/iter_apply.hpp:
-
-/usr/include/boost/numeric/conversion/bounds.hpp:
-
-/usr/include/boost/numeric/conversion/detail/numeric_cast_traits.hpp:
-
-/usr/include/boost/type_traits/has_right_shift.hpp:

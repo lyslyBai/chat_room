@@ -1,20 +1,1328 @@
-2024-03-03 20:36:21	8314	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:39	CreateModule 0x12ab3e0
-2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:39	CreateModule 0x5d33e0
-2024-03-03 20:58:05	10598	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:44	CreateModule 0x5d33e0
-2024-03-04 13:06:08	7909	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:39	CreateModule 0xab93e0
-2024-03-04 13:06:08	7909	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:44	CreateModule 0xab93e0
-2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:67	CreateModule 0xc2f3e0
-2024-03-04 13:38:11	11377	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:72	CreateModule 0xc2f3e0
-2024-03-04 13:38:14	11397	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:67	CreateModule 0xb8c3e0
-2024-03-04 13:38:14	11397	main	3	[INFO]	[root]	chat/my_module.cc:18	onLoad
-2024-03-04 13:38:14	11397	main	3	[INFO]	[root]	chat/my_module.cc:36	onServerReady
-2024-03-04 13:38:14	11397	main	3	[INFO]	[root]	chat/my_module.cc:57	onServerUp
-2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:68	CreateModule 0x11503e0
-2024-03-04 14:31:25	16771	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:73	CreateModule 0x11503e0
-2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:68	CreateModule 0xa593e0
-2024-03-04 14:45:59	18259	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:73	CreateModule 0xa593e0
-2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:68	CreateModule 0xcd13e0
-2024-03-04 14:58:29	19946	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:73	CreateModule 0xcd13e0
-2024-03-04 14:58:31	19966	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:68	CreateModule 0x5663e0
-2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:88	CreateModule 0x22fc250
-2024-03-04 16:53:13	36029	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:93	CreateModule 0x22fc250
+2024-03-05 11:10:59	4699	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:88	CreateModule 0xd98250
+2024-03-05 11:10:59	4699	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:93	CreateModule 0xd98250
+2024-03-05 11:11:02	4716	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:88	CreateModule 0xaaf250
+2024-03-05 11:11:02	4716	main	3	[INFO]	[root]	chat/my_module.cc:18	onLoad
+2024-03-05 11:11:02	4716	main	3	[INFO]	[root]	chat/my_module.cc:36	onServerReady
+2024-03-05 11:11:02	4716	main	3	[INFO]	[root]	chat/my_module.cc:78	onServerUp
+2024-03-05 11:35:12	8238	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:88	CreateModule 0xac0250
+2024-03-05 11:35:12	8238	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:93	CreateModule 0xac0250
+2024-03-05 11:35:14	8250	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:88	CreateModule 0x16cb250
+2024-03-05 11:35:14	8250	main	3	[INFO]	[root]	chat/my_module.cc:18	onLoad
+2024-03-05 11:35:14	8250	main	3	[INFO]	[root]	chat/my_module.cc:36	onServerReady
+2024-03-05 11:35:14	8250	main	3	[INFO]	[root]	chat/my_module.cc:78	onServerUp
+2024-03-05 11:35:21	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x16dafa0
+2024-03-05 11:35:21	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16dafa0 opcode=1 data={"type":"login_request","name":"asd"}
+2024-03-05 11:35:21	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:35:21	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asd
+2024-03-05 11:35:21	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x16dafa0
+2024-03-05 11:35:24	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16dafa0 opcode=1 data={"type":"send_request","msg":"asdfasdf"}
+2024-03-05 11:35:24	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdf",
+	"name" : "asd",
+	"time" : "2024-03-05 11:35:24",
+	"type" : "msg"
+} - 0x16dafa0
+2024-03-05 11:35:24	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x16dafa0
+2024-03-05 11:35:41	8250	main	13	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x16df640
+2024-03-05 11:35:41	8250	main	13	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16df640 opcode=1 data={"type":"login_request","name":"asdfasdg"}
+2024-03-05 11:35:41	8250	main	13	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:35:41	8250	main	13	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asdfasdg
+2024-03-05 11:35:41	8250	main	13	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asdfasdg",
+	"time" : "2024-03-05 11:35:41",
+	"type" : "user_enter"
+} - 0x16dafa0
+2024-03-05 11:35:41	8250	main	13	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x16df640
+2024-03-05 11:35:44	8250	main	13	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16df640 opcode=1 data={"type":"send_request","msg":"agdfasfagdsfasfd"}
+2024-03-05 11:35:44	8250	main	13	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "agdfasfagdsfasfd",
+	"name" : "asdfasdg",
+	"time" : "2024-03-05 11:35:44",
+	"type" : "msg"
+} - 0x16dafa0
+2024-03-05 11:35:44	8250	main	13	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "agdfasfagdsfasfd",
+	"name" : "asdfasdg",
+	"time" : "2024-03-05 11:35:44",
+	"type" : "msg"
+} - 0x16df640
+2024-03-05 11:35:44	8250	main	13	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x16df640
+2024-03-05 11:35:54	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16dafa0 opcode=1 data={"type":"send_request","msg":"asdfasfasdgasdfs"}
+2024-03-05 11:35:54	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasfasdgasdfs",
+	"name" : "asd",
+	"time" : "2024-03-05 11:35:54",
+	"type" : "msg"
+} - 0x16dafa0
+2024-03-05 11:35:54	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasfasdgasdfs",
+	"name" : "asd",
+	"time" : "2024-03-05 11:35:54",
+	"type" : "msg"
+} - 0x16df640
+2024-03-05 11:35:54	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x16dafa0
+2024-03-05 11:35:57	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16dafa0 opcode=1 data={"type":"send_request","msg":"asgdasfasgasdfsdf"}
+2024-03-05 11:35:57	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asgdasfasgasdfsdf",
+	"name" : "asd",
+	"time" : "2024-03-05 11:35:57",
+	"type" : "msg"
+} - 0x16dafa0
+2024-03-05 11:35:57	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asgdasfasgasdfsdf",
+	"name" : "asd",
+	"time" : "2024-03-05 11:35:57",
+	"type" : "msg"
+} - 0x16df640
+2024-03-05 11:35:57	8250	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x16dafa0
+2024-03-05 11:36:08	8250	main	14	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x16db300
+2024-03-05 11:36:08	8250	main	14	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16db300 opcode=1 data={"type":"login_request","name":"123"}
+2024-03-05 11:36:08	8250	main	14	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:36:08	8250	main	14	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=123
+2024-03-05 11:36:08	8250	main	14	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "123",
+	"time" : "2024-03-05 11:36:08",
+	"type" : "user_enter"
+} - 0x16dafa0
+2024-03-05 11:36:08	8250	main	14	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "123",
+	"time" : "2024-03-05 11:36:08",
+	"type" : "user_enter"
+} - 0x16df640
+2024-03-05 11:36:08	8250	main	14	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x16db300
+2024-03-05 11:36:13	8250	main	14	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16db300 opcode=1 data={"type":"send_request","msg":"123456789"}
+2024-03-05 11:36:13	8250	main	14	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "123456789",
+	"name" : "123",
+	"time" : "2024-03-05 11:36:13",
+	"type" : "msg"
+} - 0x16db300
+2024-03-05 11:36:13	8250	main	14	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "123456789",
+	"name" : "123",
+	"time" : "2024-03-05 11:36:13",
+	"type" : "msg"
+} - 0x16dafa0
+2024-03-05 11:36:13	8250	main	14	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "123456789",
+	"name" : "123",
+	"time" : "2024-03-05 11:36:13",
+	"type" : "msg"
+} - 0x16df640
+2024-03-05 11:36:13	8250	main	14	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x16db300
+2024-03-05 11:49:33	8250	main	17	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x16d4840
+2024-03-05 11:49:33	8250	main	17	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16d4840 opcode=1 data={"type":"login_request","name":"asd"}
+2024-03-05 11:49:33	8250	main	17	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:49:33	8250	main	17	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asd
+2024-03-05 11:49:33	8250	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:49:33",
+	"type" : "user_enter"
+} - 0x16db300
+2024-03-05 11:49:33	8250	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:49:33",
+	"type" : "user_enter"
+} - 0x16df640
+2024-03-05 11:49:33	8250	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x16d4840
+2024-03-05 11:49:45	8250	main	17	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16d4840 opcode=1 data={"type":"send_request","msg":"asdas"}
+2024-03-05 11:49:45	8250	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:49:45",
+	"type" : "msg"
+} - 0x16db300
+2024-03-05 11:49:45	8250	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:49:45",
+	"type" : "msg"
+} - 0x16d4840
+2024-03-05 11:49:45	8250	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:49:45",
+	"type" : "msg"
+} - 0x16df640
+2024-03-05 11:49:45	8250	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x16d4840
+2024-03-05 11:50:25	8250	main	19	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x16d62e0
+2024-03-05 11:50:25	8250	main	19	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16d62e0 opcode=1 data={"type":"login_request","name":"asd"}
+2024-03-05 11:50:25	8250	main	19	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:50:25	8250	main	19	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asd
+2024-03-05 11:50:25	8250	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:25",
+	"type" : "user_enter"
+} - 0x16db300
+2024-03-05 11:50:25	8250	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:25",
+	"type" : "user_enter"
+} - 0x16df640
+2024-03-05 11:50:25	8250	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x16d62e0
+2024-03-05 11:50:27	8250	main	19	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16d62e0 opcode=1 data={"type":"send_request","msg":"asdasdasd"}
+2024-03-05 11:50:27	8250	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdasdasd",
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:27",
+	"type" : "msg"
+} - 0x16db300
+2024-03-05 11:50:27	8250	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdasdasd",
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:27",
+	"type" : "msg"
+} - 0x16d62e0
+2024-03-05 11:50:27	8250	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdasdasd",
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:27",
+	"type" : "msg"
+} - 0x16df640
+2024-03-05 11:50:27	8250	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x16d62e0
+2024-03-05 11:50:48	8250	main	20	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x16ebb20
+2024-03-05 11:50:48	8250	main	20	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16ebb20 opcode=1 data={"type":"login_request","name":"asd"}
+2024-03-05 11:50:48	8250	main	20	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:50:48	8250	main	20	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asd
+2024-03-05 11:50:48	8250	main	20	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:48",
+	"type" : "user_enter"
+} - 0x16db300
+2024-03-05 11:50:48	8250	main	20	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:48",
+	"type" : "user_enter"
+} - 0x16df640
+2024-03-05 11:50:48	8250	main	20	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x16ebb20
+2024-03-05 11:50:55	8250	main	21	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x16e5630
+2024-03-05 11:50:55	8250	main	21	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16e5630 opcode=1 data={"type":"login_request","name":"asd"}
+2024-03-05 11:50:55	8250	main	21	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:50:55	8250	main	21	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asd
+2024-03-05 11:50:55	8250	main	21	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:55",
+	"type" : "user_enter"
+} - 0x16db300
+2024-03-05 11:50:55	8250	main	21	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:55",
+	"type" : "user_enter"
+} - 0x16df640
+2024-03-05 11:50:55	8250	main	21	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x16e5630
+2024-03-05 11:50:55	8250	main	22	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x16d8b40
+2024-03-05 11:50:55	8250	main	22	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16d8b40 opcode=1 data={"type":"login_request","name":"asd"}
+2024-03-05 11:50:55	8250	main	22	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:50:55	8250	main	22	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asd
+2024-03-05 11:50:55	8250	main	22	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:55",
+	"type" : "user_enter"
+} - 0x16db300
+2024-03-05 11:50:55	8250	main	22	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:55",
+	"type" : "user_enter"
+} - 0x16df640
+2024-03-05 11:50:55	8250	main	22	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x16d8b40
+2024-03-05 11:50:56	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x16dac20
+2024-03-05 11:50:56	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16dac20 opcode=1 data={"type":"login_request","name":"asd"}
+2024-03-05 11:50:56	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:50:56	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asd
+2024-03-05 11:50:56	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:56",
+	"type" : "user_enter"
+} - 0x16db300
+2024-03-05 11:50:56	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:56",
+	"type" : "user_enter"
+} - 0x16df640
+2024-03-05 11:50:56	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x16dac20
+2024-03-05 11:50:57	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16dac20 opcode=1 data={"type":"send_request","msg":"asgdasfasgasdfsdf"}
+2024-03-05 11:50:57	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asgdasfasgasdfsdf",
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:57",
+	"type" : "msg"
+} - 0x16db300
+2024-03-05 11:50:57	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asgdasfasgasdfsdf",
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:57",
+	"type" : "msg"
+} - 0x16dac20
+2024-03-05 11:50:57	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asgdasfasgasdfsdf",
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:57",
+	"type" : "msg"
+} - 0x16df640
+2024-03-05 11:50:57	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x16dac20
+2024-03-05 11:50:59	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16dac20 opcode=1 data={"type":"send_request","msg":"asgdasfasgasdfsdf"}
+2024-03-05 11:50:59	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asgdasfasgasdfsdf",
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:59",
+	"type" : "msg"
+} - 0x16db300
+2024-03-05 11:50:59	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asgdasfasgasdfsdf",
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:59",
+	"type" : "msg"
+} - 0x16dac20
+2024-03-05 11:50:59	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asgdasfasgasdfsdf",
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:59",
+	"type" : "msg"
+} - 0x16df640
+2024-03-05 11:50:59	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x16dac20
+2024-03-05 11:50:59	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x16dac20 opcode=1 data={"type":"send_request","msg":"asgdasfasgasdfsdf"}
+2024-03-05 11:50:59	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asgdasfasgasdfsdf",
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:59",
+	"type" : "msg"
+} - 0x16db300
+2024-03-05 11:50:59	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asgdasfasgasdfsdf",
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:59",
+	"type" : "msg"
+} - 0x16dac20
+2024-03-05 11:50:59	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asgdasfasgasdfsdf",
+	"name" : "asd",
+	"time" : "2024-03-05 11:50:59",
+	"type" : "msg"
+} - 0x16df640
+2024-03-05 11:50:59	8250	main	23	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x16dac20
+2024-03-05 11:52:18	9160	UNKNOW	0	[INFO]	[root]	chat/my_module.cc:88	CreateModule 0x2101250
+2024-03-05 11:52:18	9160	main	3	[INFO]	[root]	chat/my_module.cc:18	onLoad
+2024-03-05 11:52:18	9160	main	3	[INFO]	[root]	chat/my_module.cc:36	onServerReady
+2024-03-05 11:52:18	9160	main	3	[INFO]	[root]	chat/my_module.cc:78	onServerUp
+2024-03-05 11:52:39	9160	main	9	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x210e170
+2024-03-05 11:52:39	9160	main	9	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210e170 opcode=1 data={"type":"login_request","name":"asdf"}
+2024-03-05 11:52:39	9160	main	9	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:52:39	9160	main	9	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asdf
+2024-03-05 11:52:39	9160	main	9	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x210e170
+2024-03-05 11:52:41	9160	main	9	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210e170 opcode=1 data={"type":"send_request","msg":"asdgsfd"}
+2024-03-05 11:52:41	9160	main	9	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:52:41",
+	"type" : "msg"
+} - 0x210e170
+2024-03-05 11:52:41	9160	main	9	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x210e170
+2024-03-05 11:52:42	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x211c8c0
+2024-03-05 11:52:42	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211c8c0 opcode=1 data={"type":"login_request","name":"asdf"}
+2024-03-05 11:52:42	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:52:42	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asdf
+2024-03-05 11:52:42	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x211c8c0
+2024-03-05 11:52:59	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x210a6b0
+2024-03-05 11:52:59	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210a6b0 opcode=1 data={"type":"login_request","name":"asdf"}
+2024-03-05 11:52:59	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:52:59	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asdf
+2024-03-05 11:52:59	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x210a6b0
+2024-03-05 11:53:00	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210a6b0 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:53:00	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:00",
+	"type" : "msg"
+} - 0x210a6b0
+2024-03-05 11:53:00	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x210a6b0
+2024-03-05 11:53:06	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211c8c0 opcode=1 data={"type":"send_request","msg":"asdgsfd"}
+2024-03-05 11:53:06	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:06",
+	"type" : "msg"
+} - 0x210a6b0
+2024-03-05 11:53:06	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211c8c0
+2024-03-05 11:53:08	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211c8c0 opcode=1 data={"type":"send_request","msg":"asdgsfddsa"}
+2024-03-05 11:53:08	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:08",
+	"type" : "msg"
+} - 0x210a6b0
+2024-03-05 11:53:08	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211c8c0
+2024-03-05 11:53:16	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210a6b0 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:53:16	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:16",
+	"type" : "msg"
+} - 0x210a6b0
+2024-03-05 11:53:16	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x210a6b0
+2024-03-05 11:53:17	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210a6b0 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:53:17	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:17",
+	"type" : "msg"
+} - 0x210a6b0
+2024-03-05 11:53:17	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x210a6b0
+2024-03-05 11:53:17	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210a6b0 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:53:17	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:17",
+	"type" : "msg"
+} - 0x210a6b0
+2024-03-05 11:53:17	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x210a6b0
+2024-03-05 11:53:19	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211c8c0 opcode=1 data={"type":"send_request","msg":"asdgsfddsa"}
+2024-03-05 11:53:19	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:19",
+	"type" : "msg"
+} - 0x210a6b0
+2024-03-05 11:53:19	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211c8c0
+2024-03-05 11:53:19	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211c8c0 opcode=1 data={"type":"send_request","msg":"asdgsfddsa"}
+2024-03-05 11:53:19	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:19",
+	"type" : "msg"
+} - 0x210a6b0
+2024-03-05 11:53:19	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211c8c0
+2024-03-05 11:53:19	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211c8c0 opcode=1 data={"type":"send_request","msg":"asdgsfddsa"}
+2024-03-05 11:53:19	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:19",
+	"type" : "msg"
+} - 0x210a6b0
+2024-03-05 11:53:19	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211c8c0
+2024-03-05 11:53:36	9160	main	14	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x211db60
+2024-03-05 11:53:36	9160	main	14	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211db60 opcode=1 data={"type":"login_request","name":"asd"}
+2024-03-05 11:53:36	9160	main	14	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:53:36	9160	main	14	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asd
+2024-03-05 11:53:36	9160	main	14	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:53:36",
+	"type" : "user_enter"
+} - 0x210a6b0
+2024-03-05 11:53:36	9160	main	14	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x211db60
+2024-03-05 11:53:42	9160	main	14	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211db60 opcode=1 data={"type":"send_request","msg":"asfdafsdfas"}
+2024-03-05 11:53:42	9160	main	14	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asfdafsdfas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:53:42",
+	"type" : "msg"
+} - 0x211db60
+2024-03-05 11:53:42	9160	main	14	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asfdafsdfas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:53:42",
+	"type" : "msg"
+} - 0x210a6b0
+2024-03-05 11:53:42	9160	main	14	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211db60
+2024-03-05 11:53:46	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210a6b0 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:53:46	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:46",
+	"type" : "msg"
+} - 0x211db60
+2024-03-05 11:53:46	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:46",
+	"type" : "msg"
+} - 0x210a6b0
+2024-03-05 11:53:46	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x210a6b0
+2024-03-05 11:53:46	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210a6b0 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:53:46	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:46",
+	"type" : "msg"
+} - 0x211db60
+2024-03-05 11:53:46	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:46",
+	"type" : "msg"
+} - 0x210a6b0
+2024-03-05 11:53:46	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x210a6b0
+2024-03-05 11:53:46	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210a6b0 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:53:46	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:46",
+	"type" : "msg"
+} - 0x211db60
+2024-03-05 11:53:46	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:46",
+	"type" : "msg"
+} - 0x210a6b0
+2024-03-05 11:53:46	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x210a6b0
+2024-03-05 11:53:48	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211c8c0 opcode=1 data=TF,_S IVQIO QIF\F[ 	ÖQØÝ–*ú©ï!½ÿ¬s«¸ø5‡¯ó ­¸å%úñ´<«º´kú¼å5¿®ð5¼®÷s¥{"type":"send_request","msg":"asdgsfddsa"}
+2024-03-05 11:53:48	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:64	onClose 0x211c8c0 id=asdf
+2024-03-05 11:53:48	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:27	session_add del=asdf
+2024-03-05 11:53:48	9160	main	10	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:48",
+	"type" : "user_leave"
+} - 0x211db60
+2024-03-05 11:53:50	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:64	onClose 0x210a6b0 id=asdf
+2024-03-05 11:53:50	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:27	session_add del=asdf
+2024-03-05 11:53:50	9160	main	12	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:50",
+	"type" : "user_leave"
+} - 0x211db60
+2024-03-05 11:53:59	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x2108480
+2024-03-05 11:53:59	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108480 opcode=1 data={"type":"login_request","name":"asdf"}
+2024-03-05 11:53:59	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:53:59	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asdf
+2024-03-05 11:53:59	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asdf",
+	"time" : "2024-03-05 11:53:59",
+	"type" : "user_enter"
+} - 0x211db60
+2024-03-05 11:53:59	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x2108480
+2024-03-05 11:54:00	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108480 opcode=1 data={"type":"send_request","msg":"asdfasdfasd"}
+2024-03-05 11:54:00	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:00",
+	"type" : "msg"
+} - 0x211db60
+2024-03-05 11:54:00	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:00",
+	"type" : "msg"
+} - 0x2108480
+2024-03-05 11:54:00	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x2108480
+2024-03-05 11:54:01	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108480 opcode=1 data={"type":"send_request","msg":"asdfasdfasd"}
+2024-03-05 11:54:01	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:01",
+	"type" : "msg"
+} - 0x211db60
+2024-03-05 11:54:01	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:01",
+	"type" : "msg"
+} - 0x2108480
+2024-03-05 11:54:01	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x2108480
+2024-03-05 11:54:01	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108480 opcode=1 data={"type":"send_request","msg":"asdfasdfasd"}
+2024-03-05 11:54:01	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:01",
+	"type" : "msg"
+} - 0x211db60
+2024-03-05 11:54:01	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:01",
+	"type" : "msg"
+} - 0x2108480
+2024-03-05 11:54:01	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x2108480
+2024-03-05 11:54:02	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108480 opcode=1 data={"type":"send_request","msg":"asdfasdfasd"}
+2024-03-05 11:54:02	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:02",
+	"type" : "msg"
+} - 0x211db60
+2024-03-05 11:54:02	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:02",
+	"type" : "msg"
+} - 0x2108480
+2024-03-05 11:54:02	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x2108480
+2024-03-05 11:54:12	9160	main	14	[INFO]	[root]	chat/chat_servlet.cc:64	onClose 0x211db60 id=asd
+2024-03-05 11:54:12	9160	main	14	[INFO]	[root]	chat/chat_servlet.cc:27	session_add del=asd
+2024-03-05 11:54:12	9160	main	14	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:54:12",
+	"type" : "user_leave"
+} - 0x2108480
+2024-03-05 11:54:17	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108480 opcode=1 data={"type":"send_request","msg":"asdfasdfasd"}
+2024-03-05 11:54:17	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:17",
+	"type" : "msg"
+} - 0x2108480
+2024-03-05 11:54:17	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x2108480
+2024-03-05 11:54:18	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108480 opcode=1 data={"type":"send_request","msg":"asdfasdfasd"}
+2024-03-05 11:54:18	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:18",
+	"type" : "msg"
+} - 0x2108480
+2024-03-05 11:54:18	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x2108480
+2024-03-05 11:54:18	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108480 opcode=1 data={"type":"send_request","msg":"asdfasdfasd"}
+2024-03-05 11:54:18	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:18",
+	"type" : "msg"
+} - 0x2108480
+2024-03-05 11:54:18	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x2108480
+2024-03-05 11:54:21	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x211c890
+2024-03-05 11:54:21	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211c890 opcode=1 data={"type":"login_request","name":"asd"}
+2024-03-05 11:54:21	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:54:21	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asd
+2024-03-05 11:54:21	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asd",
+	"time" : "2024-03-05 11:54:21",
+	"type" : "user_enter"
+} - 0x2108480
+2024-03-05 11:54:21	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x211c890
+2024-03-05 11:54:22	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211c890 opcode=1 data={"type":"send_request","msg":"asfdafsdfas"}
+2024-03-05 11:54:22	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asfdafsdfas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:54:22",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:22	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asfdafsdfas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:54:22",
+	"type" : "msg"
+} - 0x2108480
+2024-03-05 11:54:22	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211c890
+2024-03-05 11:54:22	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211c890 opcode=1 data={"type":"send_request","msg":"asfdafsdfas"}
+2024-03-05 11:54:22	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asfdafsdfas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:54:22",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:22	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asfdafsdfas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:54:22",
+	"type" : "msg"
+} - 0x2108480
+2024-03-05 11:54:22	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211c890
+2024-03-05 11:54:22	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211c890 opcode=1 data={"type":"send_request","msg":"asfdafsdfas"}
+2024-03-05 11:54:22	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asfdafsdfas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:54:22",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:22	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asfdafsdfas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:54:22",
+	"type" : "msg"
+} - 0x2108480
+2024-03-05 11:54:22	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211c890
+2024-03-05 11:54:28	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211c890 opcode=1 data={"type":"send_request","msg":"asfdafsdfas"}
+2024-03-05 11:54:28	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asfdafsdfas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:54:28",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:28	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asfdafsdfas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:54:28",
+	"type" : "msg"
+} - 0x2108480
+2024-03-05 11:54:28	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211c890
+2024-03-05 11:54:30	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108480 opcode=1 data={"type":"send_request","msg":"asdfasdfasd"}
+2024-03-05 11:54:30	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:30",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:30	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:30",
+	"type" : "msg"
+} - 0x2108480
+2024-03-05 11:54:30	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x2108480
+2024-03-05 11:54:37	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x211fc70
+2024-03-05 11:54:37	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211fc70 opcode=1 data={"type":"login_request","name":"asdf"}
+2024-03-05 11:54:37	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:54:37	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asdf
+2024-03-05 11:54:37	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:37",
+	"type" : "user_enter"
+} - 0x211c890
+2024-03-05 11:54:37	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x211fc70
+2024-03-05 11:54:38	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211fc70 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:54:38	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:38",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:38	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:38",
+	"type" : "msg"
+} - 0x211fc70
+2024-03-05 11:54:38	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211fc70
+2024-03-05 11:54:38	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211fc70 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:54:38	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:38",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:38	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:38",
+	"type" : "msg"
+} - 0x211fc70
+2024-03-05 11:54:38	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211fc70
+2024-03-05 11:54:38	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211fc70 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:54:38	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:38",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:38	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:38",
+	"type" : "msg"
+} - 0x211fc70
+2024-03-05 11:54:38	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211fc70
+2024-03-05 11:54:40	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x210ca80
+2024-03-05 11:54:40	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210ca80 opcode=1 data={"type":"login_request","name":"asdf"}
+2024-03-05 11:54:40	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:54:40	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asdf
+2024-03-05 11:54:40	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:40",
+	"type" : "user_enter"
+} - 0x211c890
+2024-03-05 11:54:40	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x210ca80
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210ca80 opcode=1 data={"type":"send_request","msg":"asdgsfddsa"}
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:41",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:41",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x210ca80
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210ca80 opcode=1 data={"type":"send_request","msg":"asdgsfddsa"}
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:41",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:41",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x210ca80
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210ca80 opcode=1 data={"type":"send_request","msg":"asdgsfddsa"}
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:41",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:41",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x210ca80
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210ca80 opcode=1 data={"type":"send_request","msg":"asdgsfddsa"}
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:41",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:41",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:41	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x210ca80
+2024-03-05 11:54:43	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211fc70 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:54:43	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:43",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:43	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:43",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:43	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211fc70
+2024-03-05 11:54:43	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211fc70 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:54:43	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:43",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:43	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:43",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:43	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211fc70
+2024-03-05 11:54:43	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211fc70 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:54:43	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:43",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:43	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:43",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:43	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211fc70
+2024-03-05 11:54:45	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108480 opcode=1 data={"type":"send_request","msg":"asdfasdfasd"}
+2024-03-05 11:54:45	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:45",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:45	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:45",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:45	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x2108480
+2024-03-05 11:54:46	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108480 opcode=1 data={"type":"send_request","msg":"asdfasdfasd"}
+2024-03-05 11:54:46	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:46",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:46	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:46",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:46	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x2108480
+2024-03-05 11:54:46	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108480 opcode=1 data={"type":"send_request","msg":"asdfasdfasd"}
+2024-03-05 11:54:46	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:46",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:46	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdfasdfasd",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:46",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:46	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x2108480
+2024-03-05 11:54:47	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210ca80 opcode=1 data={"type":"send_request","msg":"asdgsfddsa"}
+2024-03-05 11:54:47	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:47",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:47	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:47",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:47	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x210ca80
+2024-03-05 11:54:47	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x210ca80 opcode=1 data={"type":"send_request","msg":"asdgsfddsa"}
+2024-03-05 11:54:47	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:47",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:47	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asdgsfddsa",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:47",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:47	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x210ca80
+2024-03-05 11:54:49	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211fc70 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:54:49	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:49",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:49	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:49",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:49	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211fc70
+2024-03-05 11:54:49	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211fc70 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:54:49	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:49",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:49	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:49",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:49	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211fc70
+2024-03-05 11:54:50	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211fc70 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:54:50	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:50",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:50	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:50",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:50	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211fc70
+2024-03-05 11:54:50	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211fc70 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:54:50	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:50",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:50	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:50",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:50	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211fc70
+2024-03-05 11:54:50	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211fc70 opcode=1 data={"type":"send_request","msg":"ads"}
+2024-03-05 11:54:50	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:50",
+	"type" : "msg"
+} - 0x211c890
+2024-03-05 11:54:50	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ads",
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:50",
+	"type" : "msg"
+} - 0x210ca80
+2024-03-05 11:54:50	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x211fc70
+2024-03-05 11:54:55	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:64	onClose 0x211fc70 id=asdf
+2024-03-05 11:54:55	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:27	session_add del=asdf
+2024-03-05 11:54:55	9160	main	18	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asdf",
+	"time" : "2024-03-05 11:54:55",
+	"type" : "user_leave"
+} - 0x211c890
+2024-03-05 11:55:01	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108480 opcode=2 data=WIQQNW   Wõfš ¥èá"Ñ‘êe‡Ò¸sÀ†þ_×ëuÀ›î"‰Ê÷sÂÊ "Ä›þfÄ›þfÄ›þ"ØLGTF:P_SGIVGOEGCIFCIFCIFG_P”™.¶íWñ»]çü@ËëKáü]¶µçþE¶ø]òø]òø]¶ä9[ÜªäQ§ˆ(¬ÏÆkþÙ?¸õ–4­
+2024-03-05 11:55:01	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:64	onClose 0x2108480 id=asdf
+2024-03-05 11:55:01	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:27	session_add del=asdf
+2024-03-05 11:55:01	9160	main	16	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asdf",
+	"time" : "2024-03-05 11:55:01",
+	"type" : "user_leave"
+} - 0x211c890
+2024-03-05 11:55:15	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x211c890 opcode=2 data=GTF:P_SGIVGOEGCIDC\QD[QG_ð>¸ó“TÃÑç-È–±nš€ö:Ü¬á1É†ö'ÌÑ¿vÕ€ôv‚Ñò  F&*EÿK>Ý?w5ši4
+2024-03-05 11:55:15	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:64	onClose 0x211c890 id=asd
+2024-03-05 11:55:15	9160	main	17	[INFO]	[root]	chat/chat_servlet.cc:27	session_add del=asd
+2024-03-05 11:55:19	9160	main	20	[INFO]	[root]	chat/chat_servlet.cc:57	onConnect 0x2108290
+2024-03-05 11:55:19	9160	main	20	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108290 opcode=1 data={"type":"login_request","name":"asd"}
+2024-03-05 11:55:19	9160	main	20	[INFO]	[root]	chat/chat_servlet.cc:14	session_exists id=
+2024-03-05 11:55:19	9160	main	20	[INFO]	[root]	chat/chat_servlet.cc:21	session_add id=asd
+2024-03-05 11:55:19	9160	main	20	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "login_response"
+} - 0x2108290
+2024-03-05 11:55:21	9160	main	20	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108290 opcode=1 data={"type":"send_request","msg":"asfdafsdfas"}
+2024-03-05 11:55:21	9160	main	20	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asfdafsdfas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:55:21",
+	"type" : "msg"
+} - 0x2108290
+2024-03-05 11:55:21	9160	main	20	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x2108290
+2024-03-05 11:55:22	9160	main	20	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108290 opcode=1 data={"type":"send_request","msg":"asfdafsdfas"}
+2024-03-05 11:55:22	9160	main	20	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asfdafsdfas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:55:22",
+	"type" : "msg"
+} - 0x2108290
+2024-03-05 11:55:22	9160	main	20	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x2108290
+2024-03-05 11:55:22	9160	main	20	[INFO]	[root]	chat/chat_servlet.cc:79	handle 0x2108290 opcode=1 data={"type":"send_request","msg":"asfdafsdfas"}
+2024-03-05 11:55:22	9160	main	20	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "asfdafsdfas",
+	"name" : "asd",
+	"time" : "2024-03-05 11:55:22",
+	"type" : "msg"
+} - 0x2108290
+2024-03-05 11:55:22	9160	main	20	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"msg" : "ok",
+	"result" : "200",
+	"type" : "send_response"
+} - 0x2108290
+2024-03-05 11:55:24	9160	main	9	[INFO]	[root]	chat/chat_servlet.cc:64	onClose 0x210e170 id=asdf
+2024-03-05 11:55:24	9160	main	9	[INFO]	[root]	chat/chat_servlet.cc:27	session_add del=asdf
+2024-03-05 11:55:24	9160	main	9	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asdf",
+	"time" : "2024-03-05 11:55:24",
+	"type" : "user_leave"
+} - 0x2108290
+2024-03-05 11:55:24	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:64	onClose 0x210ca80 id=asdf
+2024-03-05 11:55:24	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:27	session_add del=asdf
+2024-03-05 11:55:24	9160	main	19	[INFO]	[root]	chat/chat_servlet.cc:34	{
+	"name" : "asdf",
+	"time" : "2024-03-05 11:55:24",
+	"type" : "user_leave"
+} - 0x2108290

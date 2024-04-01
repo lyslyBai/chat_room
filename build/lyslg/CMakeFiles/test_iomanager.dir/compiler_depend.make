@@ -227,6 +227,26 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
   /usr/include/x86_64-linux-gnu/bits/confname.h \
   /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
   /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
+  ../lyslg/lyslg/util/json_util.h \
+  /usr/include/c++/8/iostream \
+  /usr/include/jsoncpp/json/json.h \
+  /usr/include/jsoncpp/json/config.h \
+  /usr/include/c++/8/cstddef \
+  /usr/include/jsoncpp/json/allocator.h \
+  /usr/include/c++/8/cstring \
+  /usr/include/string.h \
+  /usr/include/strings.h \
+  /usr/include/jsoncpp/json/version.h \
+  /usr/include/jsoncpp/json/json_features.h \
+  /usr/include/jsoncpp/json/forwards.h \
+  /usr/include/jsoncpp/json/reader.h \
+  /usr/include/jsoncpp/json/value.h \
+  /usr/include/c++/8/deque \
+  /usr/include/c++/8/bits/stl_deque.h \
+  /usr/include/c++/8/bits/deque.tcc \
+  /usr/include/c++/8/stack \
+  /usr/include/c++/8/bits/stl_stack.h \
+  /usr/include/jsoncpp/json/writer.h \
   ../lyslg/lyslg/mutex.h \
   /usr/include/c++/8/thread \
   /usr/include/c++/8/chrono \
@@ -247,7 +267,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
   /usr/include/boost/config/user.hpp \
   /usr/include/boost/config/detail/select_compiler_config.hpp \
   /usr/include/boost/config/compiler/gcc.hpp \
-  /usr/include/c++/8/cstddef \
   /usr/include/boost/config/detail/select_stdlib_config.hpp \
   /usr/include/boost/config/stdlib/libstdcpp3.hpp \
   /usr/include/boost/config/detail/select_platform_config.hpp \
@@ -473,8 +492,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
   /usr/include/boost/range/detail/implementation_help.hpp \
   /usr/include/boost/range/detail/common.hpp \
   /usr/include/boost/range/detail/sfinae.hpp \
-  /usr/include/string.h \
-  /usr/include/strings.h \
   /usr/include/boost/range/size.hpp \
   /usr/include/boost/range/size_type.hpp \
   /usr/include/boost/range/difference_type.hpp \
@@ -637,7 +654,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
   /usr/include/boost/move/detail/std_ns_begin.hpp \
   /usr/include/boost/move/detail/std_ns_end.hpp \
   /usr/include/boost/lexical_cast/detail/converter_lexical_streams.hpp \
-  /usr/include/c++/8/cstring \
   /usr/include/c++/8/locale \
   /usr/include/c++/8/bits/locale_facets_nonio.h \
   /usr/include/x86_64-linux-gnu/c++/8/bits/time_members.h \
@@ -1031,7 +1047,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
   /usr/include/asm-generic/sockios.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h \
   ../lyslg/lyslg/address.h \
-  /usr/include/c++/8/iostream \
   /usr/include/netinet/in.h \
   /usr/include/x86_64-linux-gnu/bits/in.h \
   /usr/include/arpa/inet.h \
@@ -1126,8 +1141,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/openssl/objectserr.h:
 
-/usr/include/openssl/bnerr.h:
-
 /usr/include/openssl/asn1err.h:
 
 /usr/include/openssl/asn1.h:
@@ -1152,11 +1165,7 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/x86_64-linux-gnu/bits/in.h:
 
-/usr/include/c++/8/iostream:
-
 ../lyslg/lyslg/address.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h:
 
 /usr/include/x86_64-linux-gnu/asm/sockios.h:
 
@@ -1336,8 +1345,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/mpl/prior.hpp:
 
-/usr/include/boost/mpl/advance_fwd.hpp:
-
 /usr/include/boost/mpl/minus.hpp:
 
 /usr/include/boost/mpl/plus.hpp:
@@ -1496,8 +1503,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/predef/platform/windows_system.h:
 
-/usr/include/boost/predef/platform/windows_desktop.h:
-
 /usr/include/boost/predef/platform/mingw64.h:
 
 /usr/include/boost/predef/platform/mingw32.h:
@@ -1554,8 +1559,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/predef/library/std/libcomo.h:
 
-/usr/include/boost/predef/library/std/dinkumware.h:
-
 /usr/include/boost/predef/library/std/cxx.h:
 
 /usr/include/boost/predef/library/std/_prefix.h:
@@ -1580,47 +1583,31 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/predef/library/c.h:
 
-/usr/include/boost/preprocessor/tuple/elem.hpp:
-
-/usr/include/c++/8/bits/stl_set.h:
-
-/usr/include/boost/mpl/aux_/config/gcc.hpp:
-
-/usr/include/boost/mpl/bool_fwd.hpp:
-
-/usr/include/boost/preprocessor/facilities/empty.hpp:
-
-/usr/include/boost/preprocessor/detail/check.hpp:
-
-/usr/include/boost/preprocessor/detail/is_binary.hpp:
-
-/usr/local/include/yaml-cpp/emitterdef.h:
-
-/usr/include/c++/8/bits/codecvt.h:
-
-/usr/include/boost/preprocessor/list/detail/fold_left.hpp:
+/usr/include/boost/predef/compiler/tendra.h:
 
 /usr/include/openssl/hmac.h:
 
 /usr/include/boost/predef/compiler/sunpro.h:
 
-/usr/include/boost/preprocessor/list/fold_left.hpp:
+/usr/include/boost/predef/compiler/sgi_mipspro.h:
 
-/usr/include/boost/mpl/pop_front_fwd.hpp:
+/usr/include/c++/8/bits/indirect_array.h:
 
-/usr/include/x86_64-linux-gnu/bits/types.h:
+/usr/include/boost/mpl/aux_/preprocessed/gcc/advance_backward.hpp:
 
-/usr/include/openssl/dtls1.h:
+/usr/include/boost/predef/compiler/palm.h:
 
-/usr/include/boost/config/helper_macros.hpp:
+/usr/include/boost/predef/version.h:
 
-/usr/include/x86_64-linux-gnu/bits/posix_opt.h:
+/usr/include/boost/predef/compiler/metrowerks.h:
 
-/usr/include/boost/preprocessor/identity.hpp:
+/usr/include/boost/predef/compiler/metaware.h:
 
-/usr/include/boost/mpl/aux_/config/dtp.hpp:
+/usr/include/boost/mpl/front_inserter.hpp:
 
-/usr/include/boost/preprocessor/logical/bitand.hpp:
+/usr/include/boost/predef/compiler/ibm.h:
+
+/usr/include/boost/predef/compiler/hp_acc.h:
 
 /usr/include/boost/mpl/limits/arity.hpp:
 
@@ -1644,6 +1631,10 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/preprocessor/comma_if.hpp:
 
+/usr/include/boost/mpl/aux_/config/dtp.hpp:
+
+/usr/include/boost/preprocessor/identity.hpp:
+
 /usr/include/boost/predef/library/std.h:
 
 /usr/include/boost/mpl/aux_/arity.hpp:
@@ -1660,12 +1651,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/predef/architecture/ppc.h:
 
-/usr/include/boost/mpl/sequence_tag_fwd.hpp:
-
-/usr/include/boost/iterator/iterator_adaptor.hpp:
-
-/usr/include/boost/mpl/aux_/config/nttp.hpp:
-
 /usr/include/boost/lexical_cast/detail/converter_lexical.hpp:
 
 /usr/include/boost/predef/os/bsd/open.h:
@@ -1678,7 +1663,11 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/mpl/aux_/na_fwd.hpp:
 
-/usr/include/boost/preprocessor/list/detail/fold_right.hpp:
+/usr/include/boost/mpl/aux_/config/gcc.hpp:
+
+/usr/include/boost/mpl/bool_fwd.hpp:
+
+/usr/include/boost/preprocessor/facilities/empty.hpp:
 
 /usr/include/c++/8/bits/stream_iterator.h:
 
@@ -1730,26 +1719,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/preprocessor/control/iif.hpp:
 
-/usr/include/boost/preprocessor/list/fold_right.hpp:
-
-/usr/include/openssl/evperr.h:
-
-/usr/include/x86_64-linux-gnu/sys/un.h:
-
-/usr/include/boost/iterator/detail/config_def.hpp:
-
-/usr/include/boost/range/detail/has_member_size.hpp:
-
-/usr/include/boost/mpl/or.hpp:
-
-/usr/include/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp:
-
-/usr/include/boost/mpl/aux_/config/bind.hpp:
-
-/usr/include/boost/config/user.hpp:
-
-/usr/include/x86_64-linux-gnu/c++/8/bits/c++locale.h:
-
 ../lyslg/lyslg/thread.h:
 
 /usr/include/boost/mpl/O1_size.hpp:
@@ -1788,6 +1757,46 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/c++/8/bits/fstream.tcc:
 
+/usr/include/boost/current_function.hpp:
+
+/usr/include/boost/predef/library/std/dinkumware.h:
+
+/usr/include/c++/8/deque:
+
+/usr/include/asm-generic/socket.h:
+
+/usr/include/boost/utility.hpp:
+
+/usr/include/math.h:
+
+/usr/include/boost/mpl/advance_fwd.hpp:
+
+/usr/include/jsoncpp/json/reader.h:
+
+/usr/include/string.h:
+
+/usr/include/boost/predef/architecture/parisc.h:
+
+/usr/include/boost/config/user.hpp:
+
+/usr/include/x86_64-linux-gnu/c++/8/bits/c++locale.h:
+
+/usr/include/boost/mpl/or.hpp:
+
+/usr/include/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp:
+
+/usr/include/boost/mpl/aux_/config/bind.hpp:
+
+/usr/include/c++/8/bits/stl_stack.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h:
+
+/usr/include/jsoncpp/json/json.h:
+
+/usr/local/include/yaml-cpp/emitterstyle.h:
+
+/usr/include/boost/predef/compiler/compaq.h:
+
 /usr/include/boost/config/stdlib/libstdcpp3.hpp:
 
 /usr/include/boost/mpl/aux_/config/has_apply.hpp:
@@ -1812,10 +1821,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/x86_64-linux-gnu/bits/getopt_posix.h:
 
-/usr/include/boost/preprocessor/list/adt.hpp:
-
-/usr/include/c++/8/cmath:
-
 /usr/include/x86_64-linux-gnu/bits/environments.h:
 
 /usr/local/include/yaml-cpp/yaml.h:
@@ -1834,21 +1839,23 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/mpl/list/aux_/preprocessed/plain/list10.hpp:
 
+/usr/include/jsoncpp/json/version.h:
+
 /usr/include/x86_64-linux-gnu/bits/mathcalls.h:
 
 /usr/include/x86_64-linux-gnu/bits/syscall.h:
+
+/usr/include/c++/8/iostream:
+
+/usr/include/c++/8/bits/slice_array.h:
+
+/usr/include/boost/mpl/apply.hpp:
 
 /usr/include/boost/range/mutable_iterator.hpp:
 
 /usr/include/boost/predef/detail/os_detected.h:
 
 /usr/include/boost/mpl/integral_c_fwd.hpp:
-
-/usr/include/c++/8/bits/gslice_array.h:
-
-/usr/include/boost/preprocessor/list/reverse.hpp:
-
-/usr/include/boost/type_traits/declval.hpp:
 
 /usr/include/boost/range/const_iterator.hpp:
 
@@ -1864,11 +1871,9 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/c++/8/map:
 
-/usr/include/c++/8/bits/indirect_array.h:
+/usr/include/boost/mpl/aux_/config/gpu.hpp:
 
-/usr/include/boost/mpl/aux_/preprocessed/gcc/advance_backward.hpp:
-
-/usr/include/boost/predef/compiler/palm.h:
+/usr/include/c++/8/bits/stl_algo.h:
 
 /usr/local/include/yaml-cpp/traits.h:
 
@@ -1894,6 +1899,10 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/c++/8/bits/streambuf_iterator.h:
 
+/usr/include/ctype.h:
+
+/usr/include/jsoncpp/json/forwards.h:
+
 /usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
 
 /usr/include/x86_64-linux-gnu/asm/unistd_64.h:
@@ -1916,6 +1925,10 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/x86_64-linux-gnu/gnu/stubs.h:
 
+/usr/include/boost/predef/compiler/microtec.h:
+
+/usr/include/c++/8/iterator:
+
 /usr/include/c++/8/ios:
 
 /usr/include/c++/8/bits/stl_list.h:
@@ -1935,10 +1948,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 /usr/include/wctype.h:
 
 /usr/include/c++/8/iosfwd:
-
-/usr/include/boost/predef/platform.h:
-
-/usr/include/boost/mpl/aux_/config/msvc.hpp:
 
 /usr/include/c++/8/bits/exception_ptr.h:
 
@@ -1986,17 +1995,19 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
 
-/usr/include/boost/preprocessor/control/expr_iif.hpp:
+/usr/include/boost/mpl/pop_front_fwd.hpp:
 
-/usr/include/endian.h:
+/usr/include/x86_64-linux-gnu/bits/types.h:
 
-/usr/include/openssl/tls1.h:
+/usr/include/openssl/dtls1.h:
 
-/usr/include/boost/preprocessor/control/while.hpp:
+/usr/include/boost/config/helper_macros.hpp:
 
-/usr/include/c++/8/bits/char_traits.h:
+/usr/include/c++/8/bits/stl_deque.h:
 
-/usr/include/features.h:
+/usr/include/x86_64-linux-gnu/bits/posix_opt.h:
+
+/usr/include/boost/preprocessor/list/fold_left.hpp:
 
 /usr/lib/gcc/x86_64-linux-gnu/8/include/stdint.h:
 
@@ -2014,19 +2025,9 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/mpl/bool.hpp:
 
-/usr/include/c++/8/algorithm:
-
 /usr/include/c++/8/cstring:
 
-/usr/include/boost/math/policies/policy.hpp:
-
-/usr/include/boost/preprocessor/empty.hpp:
-
-/usr/include/boost/concept/detail/has_constraints.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/endian.h:
-
-/usr/include/c++/8/memory:
+/usr/include/c++/8/algorithm:
 
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
 
@@ -2042,11 +2043,19 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/preprocessor/variadic/size.hpp:
 
+/usr/include/boost/predef/detail/_exception.h:
+
+/usr/include/c++/8/bits/move.h:
+
+/usr/include/boost/mpl/aux_/config/preprocessor.hpp:
+
 /usr/include/c++/8/ostream:
 
 /usr/local/include/yaml-cpp/null.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
+
+/usr/include/c++/8/bits/deque.tcc:
 
 /usr/include/c++/8/bits/invoke.h:
 
@@ -2078,6 +2087,10 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/x86_64-linux-gnu/bits/floatn.h:
 
+/usr/include/boost/predef/compiler/iar.h:
+
+/usr/include/boost/iterator/iterator_facade.hpp:
+
 /usr/include/boost/mpl/vector/aux_/tag.hpp:
 
 /usr/include/boost/mpl/contains_fwd.hpp:
@@ -2091,6 +2104,12 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 /usr/include/x86_64-linux-gnu/bits/time.h:
 
 /usr/include/boost/predef/architecture/sparc.h:
+
+/usr/include/boost/predef/platform/windows_desktop.h:
+
+/usr/include/jsoncpp/json/json_features.h:
+
+/usr/include/boost/preprocessor/repetition/enum_params.hpp:
 
 /usr/include/boost/mpl/aux_/config/pp_counter.hpp:
 
@@ -2142,9 +2161,15 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/core/swap.hpp:
 
-/usr/include/boost/mpl/front_inserter.hpp:
+/usr/include/boost/concept/detail/has_constraints.hpp:
 
-/usr/include/boost/predef/compiler/ibm.h:
+/usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/c++/8/memory:
+
+/usr/include/boost/math/policies/policy.hpp:
+
+/usr/include/boost/preprocessor/empty.hpp:
 
 /usr/include/boost/mpl/limits/list.hpp:
 
@@ -2178,6 +2203,14 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/preprocessor/comparison/less_equal.hpp:
 
+/usr/include/boost/predef/platform.h:
+
+/usr/include/boost/mpl/aux_/config/msvc.hpp:
+
+/usr/include/endian.h:
+
+/usr/include/boost/preprocessor/control/expr_iif.hpp:
+
 ../lyslg/lyslg/log.h:
 
 /usr/include/openssl/opensslv.h:
@@ -2195,6 +2228,8 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 /usr/include/c++/8/bits/basic_string.tcc:
 
 /usr/include/boost/type_traits/is_reference.hpp:
+
+/usr/include/jsoncpp/json/config.h:
 
 /usr/include/c++/8/bits/ptr_traits.h:
 
@@ -2216,9 +2251,19 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/mpl/aux_/common_name_wknd.hpp:
 
+/usr/include/openssl/bnerr.h:
+
+/usr/include/jsoncpp/json/writer.h:
+
 /usr/include/c++/8/bits/stl_iterator_base_types.h:
 
-/usr/include/boost/type.hpp:
+/usr/include/c++/8/bits/char_traits.h:
+
+/usr/include/features.h:
+
+/usr/include/openssl/tls1.h:
+
+/usr/include/boost/preprocessor/control/while.hpp:
 
 /usr/include/c++/8/bits/postypes.h:
 
@@ -2237,12 +2282,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/errno.h:
-
-/usr/include/boost/preprocessor/arithmetic/dec.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/stdio.h:
-
-/usr/include/boost/mpl/aux_/arity_spec.hpp:
 
 /usr/include/c++/8/array:
 
@@ -2264,6 +2303,10 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/next_prior.hpp:
 
+/usr/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_long_long.hpp:
+
+/usr/include/boost/mpl/aux_/is_msvc_eti_arg.hpp:
+
 /usr/include/c++/8/backward/auto_ptr.h:
 
 /usr/include/boost/mpl/eval_if.hpp:
@@ -2282,21 +2325,13 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/c++/8/bits/locale_conv.h:
 
+../lyslg/lyslg/util/json_util.h:
+
 /usr/include/c++/8/exception:
 
 /usr/include/boost/math/tools/promotion.hpp:
 
 /usr/include/boost/range/algorithm/equal.hpp:
-
-/usr/include/boost/predef/detail/_exception.h:
-
-/usr/include/boost/mpl/aux_/config/preprocessor.hpp:
-
-/usr/include/c++/8/bits/move.h:
-
-/usr/include/boost/mpl/aux_/is_msvc_eti_arg.hpp:
-
-/usr/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_long_long.hpp:
 
 /usr/include/x86_64-linux-gnu/c++/8/bits/ctype_base.h:
 
@@ -2314,11 +2349,11 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/c++/8/type_traits:
 
-/usr/include/ctype.h:
-
 /usr/include/boost/predef/architecture/sys370.h:
 
 /usr/include/c++/8/bits/stl_iterator.h:
+
+/usr/include/strings.h:
 
 /usr/include/c++/8/bits/streambuf.tcc:
 
@@ -2355,6 +2390,10 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 /usr/include/boost/numeric/conversion/numeric_cast_traits.hpp:
 
 /usr/include/c++/8/bits/nested_exception.h:
+
+/usr/include/boost/predef/compiler/llvm.h:
+
+/usr/include/c++/8/bits/stl_tempbuf.h:
 
 /usr/include/boost/iterator/iterator_categories.hpp:
 
@@ -2402,9 +2441,9 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/time.h:
 
-/usr/include/boost/version.hpp:
-
 /usr/include/x86_64-linux-gnu/asm/unistd.h:
+
+/usr/include/boost/version.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/timex.h:
 
@@ -2447,6 +2486,12 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 ../lyslg/lyslg/noncopyable.h:
 
 /usr/include/boost/mpl/aux_/template_arity.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/stdio.h:
+
+/usr/include/boost/preprocessor/arithmetic/dec.hpp:
+
+/usr/include/boost/mpl/aux_/arity_spec.hpp:
 
 /usr/include/c++/8/bits/range_access.h:
 
@@ -2584,7 +2629,23 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/assert.h:
 
+/usr/include/c++/8/bits/stl_set.h:
+
+/usr/include/boost/preprocessor/tuple/elem.hpp:
+
+/usr/include/boost/mpl/sequence_tag_fwd.hpp:
+
+/usr/include/boost/mpl/aux_/config/nttp.hpp:
+
+/usr/include/boost/iterator/iterator_adaptor.hpp:
+
 /usr/include/c++/8/bits/stl_raw_storage_iter.h:
+
+/usr/local/include/yaml-cpp/emitterdef.h:
+
+/usr/include/c++/8/bits/codecvt.h:
+
+/usr/include/boost/preprocessor/detail/is_binary.hpp:
 
 /usr/include/c++/8/backward/binders.h:
 
@@ -2593,10 +2654,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 /usr/include/boost/predef/language/stdc.h:
 
 /usr/include/boost/mpl/aux_/value_wknd.hpp:
-
-/usr/include/boost/preprocessor/facilities/identity.hpp:
-
-/usr/include/c++/8/ext/concurrence.h:
 
 /usr/include/boost/mpl/int_fwd.hpp:
 
@@ -2647,6 +2704,42 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 /usr/include/boost/mpl/bind_fwd.hpp:
 
 /usr/include/boost/numeric/conversion/udt_builtin_mixture_enum.hpp:
+
+/usr/include/boost/preprocessor/logical/bitand.hpp:
+
+/usr/include/c++/8/ext/concurrence.h:
+
+/usr/include/boost/preprocessor/facilities/identity.hpp:
+
+/usr/include/boost/type.hpp:
+
+/usr/include/boost/preprocessor/list/detail/fold_left.hpp:
+
+/usr/include/boost/preprocessor/list/adt.hpp:
+
+/usr/include/c++/8/cmath:
+
+/usr/include/boost/preprocessor/detail/check.hpp:
+
+/usr/include/boost/preprocessor/list/fold_right.hpp:
+
+/usr/include/openssl/evperr.h:
+
+/usr/include/x86_64-linux-gnu/sys/un.h:
+
+/usr/include/boost/iterator/detail/config_def.hpp:
+
+/usr/include/c++/8/stack:
+
+/usr/include/boost/range/detail/has_member_size.hpp:
+
+/usr/include/boost/preprocessor/list/detail/fold_right.hpp:
+
+/usr/include/c++/8/bits/gslice_array.h:
+
+/usr/include/boost/preprocessor/list/reverse.hpp:
+
+/usr/include/boost/type_traits/declval.hpp:
 
 /usr/include/boost/preprocessor/tuple/rem.hpp:
 
@@ -2738,12 +2831,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/x86_64-linux-gnu/bits/mathinline.h:
 
-/usr/include/boost/mpl/aux_/config/gpu.hpp:
-
-/usr/include/c++/8/bits/stl_algo.h:
-
-/usr/include/boost/predef/compiler/sgi_mipspro.h:
-
 /usr/include/x86_64-linux-gnu/bits/epoll.h:
 
 /usr/include/boost/mpl/aux_/preprocessed/gcc/apply_wrap.hpp:
@@ -2796,10 +2883,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/mpl/aux_/preprocessor/default_params.hpp:
 
-/usr/include/c++/8/bits/slice_array.h:
-
-/usr/include/boost/mpl/apply.hpp:
-
 /usr/include/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp:
 
 /usr/include/boost/config/detail/suffix.hpp:
@@ -2822,6 +2905,8 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/preprocessor/array/elem.hpp:
 
+/usr/include/jsoncpp/json/allocator.h:
+
 /usr/include/boost/preprocessor/array/data.hpp:
 
 /usr/include/boost/concept/detail/backward_compatibility.hpp:
@@ -2829,8 +2914,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 /usr/include/boost/mpl/lambda.hpp:
 
 /usr/include/boost/preprocessor/array/size.hpp:
-
-/usr/include/boost/preprocessor/repetition/enum_params.hpp:
 
 /usr/include/boost/mpl/next_prior.hpp:
 
@@ -2881,12 +2964,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 /usr/include/c++/8/unordered_set:
 
 /usr/include/boost/range/detail/sfinae.hpp:
-
-/usr/include/string.h:
-
-/usr/include/boost/predef/architecture/parisc.h:
-
-/usr/include/strings.h:
 
 /usr/include/boost/numeric/conversion/conversion_traits.hpp:
 
@@ -2972,17 +3049,9 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
 
-/usr/include/boost/predef/compiler/tendra.h:
-
 /usr/local/include/yaml-cpp/node/detail/node_ref.h:
 
 /usr/include/boost/type_traits/is_unsigned.hpp:
-
-/usr/include/asm-generic/socket.h:
-
-/usr/include/boost/utility.hpp:
-
-/usr/include/math.h:
 
 /usr/include/boost/utility/base_from_member.hpp:
 
@@ -3016,6 +3085,10 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/core/checked_delete.hpp:
 
+/usr/include/boost/predef/compiler/pgi.h:
+
+/usr/include/boost/numeric/conversion/detail/converter.hpp:
+
 /usr/include/boost/core/noncopyable.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/select.h:
@@ -3037,8 +3110,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 /usr/include/boost/lexical_cast/bad_lexical_cast.hpp:
 
 /usr/include/boost/throw_exception.hpp:
-
-/usr/include/boost/current_function.hpp:
 
 /usr/include/boost/lexical_cast/detail/is_character.hpp:
 
@@ -3115,6 +3186,8 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 /usr/include/boost/mpl/lambda_fwd.hpp:
 
 /usr/include/boost/mpl/aux_/largest_int.hpp:
+
+/usr/include/jsoncpp/json/value.h:
 
 /usr/include/boost/mpl/aux_/preprocessed/gcc/times.hpp:
 
@@ -3236,10 +3309,6 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 
 /usr/include/boost/predef/compiler/comeau.h:
 
-/usr/local/include/yaml-cpp/emitterstyle.h:
-
-/usr/include/boost/predef/compiler/compaq.h:
-
 /usr/include/c++/8/bits/locale_facets.h:
 
 /usr/include/boost/predef/compiler/ekopath.h:
@@ -3255,27 +3324,3 @@ lyslg/CMakeFiles/test_iomanager.dir/tests/test_iomanager.cc.o: ../lyslg/tests/te
 /usr/include/boost/mpl/aux_/config/adl.hpp:
 
 /usr/include/boost/predef/compiler/greenhills.h:
-
-/usr/include/boost/predef/compiler/hp_acc.h:
-
-/usr/include/boost/iterator/iterator_facade.hpp:
-
-/usr/include/boost/predef/compiler/iar.h:
-
-/usr/include/c++/8/bits/stl_tempbuf.h:
-
-/usr/include/boost/predef/compiler/llvm.h:
-
-/usr/include/boost/predef/compiler/metaware.h:
-
-/usr/include/boost/predef/version.h:
-
-/usr/include/boost/predef/compiler/metrowerks.h:
-
-/usr/include/c++/8/iterator:
-
-/usr/include/boost/predef/compiler/microtec.h:
-
-/usr/include/boost/numeric/conversion/detail/converter.hpp:
-
-/usr/include/boost/predef/compiler/pgi.h:
